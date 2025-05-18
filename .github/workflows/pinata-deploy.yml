@@ -24,6 +24,6 @@ jobs:
         run: npx quartz build
 
       - name: Upload folder to Pinata via SDK
-        run: node uploadFolder.mjs
+        run: node .github/scripts/uploadFolder.mjs
         env:
           PINATA_JWT: ${{ secrets.PINATA_JWT }}
