@@ -46,6 +46,37 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
+const left = [
+  Component.PageTitle(),
+  Component.MobileOnly(Component.Spacer()),
+  Component.Flex({
+    components: [
+      {
+        Component: Component.Search(),
+        grow: true,
+      },
+      { Component: Component.Darkmode() },
+    ],
+  }),
+  Component.DesktopOnly(
+    Component.RecentNotes({
+      title: "Recent Writing",
+      limit: 4,
+      filter: (f) =>
+        f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
+      linkToMore: "posts/" as SimpleSlug,
+    }),
+  ),
+  Component.DesktopOnly(
+    Component.RecentNotes({
+      title: "Recent Notes",
+      limit: 2,
+      filter: (f) => f.slug!.startsWith("thoughts/"),
+      linkToMore: "thoughts/" as SimpleSlug,
+    }),
+  ),
+]
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
