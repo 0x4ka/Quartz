@@ -2,7 +2,7 @@ import { PinataSDK } from "pinata"
 import fs from "fs/promises"
 import path from "path"
 import { Blob } from "buffer"
-import { fileFromBuffer } from "web3-file"
+import fileFromBuffer from "web3-file"
 import dotenv from "dotenv"
 
 dotenv.config()
