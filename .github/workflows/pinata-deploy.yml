@@ -1,4 +1,4 @@
-name: Deploy to Pinata (upload public/ as directory)
+name: Deploy public folder to Pinata
 
 on:
   push:
@@ -24,10 +24,7 @@ jobs:
       - name: Build Quartz site
         run: npx quartz build
 
-      - name: Install Pinata SDK
-        run: npm install pinata-sdk
-
       - name: Upload public folder to Pinata
-        run: node .github/scripts/uploadFolder.mjs
+        run: node .github/scripts/uploadPublicFolder.cjs
         env:
           PINATA_JWT: ${{ secrets.PINATA_JWT }}
