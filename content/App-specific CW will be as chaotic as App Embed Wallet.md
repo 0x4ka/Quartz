@@ -4,6 +4,7 @@
 更新日時: 2024-03-30 13:06:49
 
 App-specific CW will be as chaotic as App Embed Wallet
+
 #Wallet
 
 App Embed Wallet is a [wallet] hidden in the app I/F like STEPN etc.
