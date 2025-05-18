@@ -1,8 +1,6 @@
 import { PinataSDK } from "pinata"
 import fs from "fs/promises"
 import path from "path"
-import { Blob } from "buffer"
-import fileFromBuffer from "web3-file"
 import dotenv from "dotenv"
 
 dotenv.config()
@@ -13,21 +11,21 @@ const pinata = new PinataSDK({
 
 const publicDir = "./public"
 
-// 再帰的にファイルを集めて File[] に変換
+// 再帰的に File[] を構成する
 async function collectFiles(dir, base = "") {
   const entries = await fs.readdir(dir, { withFileTypes: true })
   const files = []
 
   for (const entry of entries) {
     const fullPath = path.join(dir, entry.name)
-    const relativePath = path.join(base, entry.name)
+    const relPath = path.join(base, entry.name)
 
     if (entry.isDirectory()) {
-      const subfiles = await collectFiles(fullPath, relativePath)
+      const subfiles = await collectFiles(fullPath, relPath)
       files.push(...subfiles)
     } else {
       const content = await fs.readFile(fullPath)
-      const file = await fileFromBuffer(content, relativePath)
+      const file = new File([content], relPath) // ← ここで File オブジェクトを構成
       files.push(file)
     }
   }
@@ -40,4 +38,7 @@ const fileArray = await collectFiles(publicDir)
 const upload = await pinata.upload.public
   .fileArray(fileArray)
   .name("QuartzSite")
-  .key
+
+console.log("✅ Uploaded!")
+console.log("🧬 CID:", upload.cid)
+console.log("🌐 Gateway:", `https://gateway.pinata.cloud/ipfs/${upload.cid}`)
