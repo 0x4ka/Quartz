@@ -1,0 +1,57 @@
+# NiftyApes: Harberger Style Lending Auctions
+
+作成日時: 2023-05-23 08:45:25
+更新日時: 2023-05-27 21:28:42
+
+NiftyApes: Harberger Style Lending Auctions
+#Gradual
+source: [NiftyApes: Harberger Style Lending Auctions - NiftyApes: Whitepaper](https://whitepaper.niftyapes.money/#abstract)(https://whitepaper.niftyapes.money/#abstract NiftyApes: Harberger Style Lending Auctions - NiftyApes: Whitepaper)
+
+[" 従来の債券市場は、資本効率（資本保有者へのリターン）を優先する一方で、配分効率（リターンを最も望む貸し手へのリターンと、より良い条件への借り手のエクスポージャー）はほとんど見送られてきた]
+  - 「より良い条件への借り手のエクスポージャーの見送り」は、市場による正常化作用が働きにくくなる
+
+[" ハーバーガー税制とは、私有財を継続的にオークションにかける制度である（つまり、誰でもいつでもその品物を利用する権利を購入できる）。]
+  - 所有者は価格を自己申告する
+  - その価格に対して提示された購入のオファーは絶対的に応じる必要がある
+  - 自己申告した価格に対して税金が掛けられる
+  - [* ここで重要なのは、「[最適で真価のある販売価格を設定するインセンティブを設計する]こと]」
+    - 価格を高く設定することで所有する権利を維持できる ↔ 収めるべき税金が高くなる️
+  安く設定することで税金を抑えられる ↔︎ 資産の所有権を買い取られる
+      - [The Harberger Tax | harbergertax](https://www.harbergertax.com/)(https://www.harbergertax.com/ The Harberger Tax | harbergertax)
+
+[" NiftyApesは、常に売りに出される私的財貨の代わりに、各貸付で得られる利息の権利のための継続的なオークションを促進するものです。]
+[" NiftyApesプロトコルは、ハーバーガー税の概念を融資に適用することで、より配分的で資本効率の高いNFTへの融資の仕組みを確立したNFT担保融資プロトコルです]
+　所有している財産が常にオークションにかけらるのが原典だが、
+　各貸し付けで得られる利息（債権）に対する継続的なオークションを実施する
+　	債権の所有権のあり方
+　	↔︎ in case of Gradual: リース契約の権利のあり方
+　オークションは常時開催
+　	貸出期間中、貸主が借主に最良の条件を提供するために競争することを保証し、借主に価値をもたらす
+　		貸主によって自己申告される貸出条件をオークションにかけることで、より真価に近い条件で借主がレンディングできるようになる
+　		>If the lender sets the terms of the loan below-market, other lenders will refinance the loan at better terms. Set the terms too high above-market, and the lender might lose money by over-valuing the asset.
+　![646cbec1ae1667001cdb91d2.png](./img/646cbec1ae1667001cdb91d2.png)
+  LP2の貸付をLP3が買い取る構造
+  	元本
+  		Offerしたい金額（図の場合は52ETH）≒純粋な流動性供給
+  	LP2がこれまでに得た利息	
+  		LP2が提示していた「51ETH 100days @13%」で得られた利息
+  	プレミアム
+        - 貸し手のプラスサムゲームを生み出すために、4つのプレミアムを導入
+        - オファーが借り換えられるたびに発生する
+          - ローンオリジネーションプレミアム
+            - 1つ前の元本の0.5% (50 BP)
+            - [" ローンオリジネーターが資産に価格をつけ、借り手にオンデマンドで資金を提供するという最初の仕事に対して補償するものです。]
+            - >[/ 100Ξ][/ for][/ 10,000 seconds][/ at][/ 10% interest rate]
+      > [/ 00.50Ξ origination fee]
+     タームプレミアム
+     インタレスト・プレミアム
+     デフォルト・プレミアム
+ >真の市場評価と条件を維持するインセンティブを持つ環境を作り出します
+    - いい表現・仕組みやなぁ
+    - [流動性が高いということは市場によって正常化される頻度が高いため、より真価に近い評価を得やすくなる]
+
+ NFTの所有権
+ 	>ERC721コントラクトでNFTの所有者を照会し、NiftyApesコントラクトのアドレスが返された場合、所有者を特定するためにNiftyApesコントラクトにownerOfクエリを実行することができます。
+ 	レジストリ型
+ 		[NFT Rental Market の類型]
+

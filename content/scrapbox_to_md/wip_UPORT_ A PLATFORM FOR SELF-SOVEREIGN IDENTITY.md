@@ -1,0 +1,10 @@
+# wip_UPORT: A PLATFORM FOR SELF-SOVEREIGN IDENTITY
+
+作成日時: 2023-04-10 14:14:22
+更新日時: 2023-04-20 01:53:17
+
+wip_UPORT: A PLATFORM FOR SELF-SOVEREIGN IDENTITY
+source: [uPort_whitepaper_DRAFT20170221 ja.pdf https://scrapbox.io/files/643452690b2384001b1c5d6d.pdf]
+
+
+
