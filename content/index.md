@@ -1,10 +1,6 @@
 ---
 title: Welcome to 0xhid3's digital garden
 tags:
----
----
-title: "jzhao.xyz"
-tags:
   - evergreen
 ---
 <img src="./banner.svg" width="701" height="175">
