@@ -1,4 +1,4 @@
-name: Deploy Quartz site to Pinata (public/ only)
+name: Deploy to Pinata
 
 on:
   push:
@@ -24,7 +24,7 @@ jobs:
       - name: Build Quartz site
         run: npx quartz build
 
-      - name: Upload public/ contents to Pinata via group API (v3)
+      - name: Upload to Pinata (public folder contents only)
         run: node .github/scripts/uploadToPinata.mjs
         env:
           PINATA_JWT: ${{ secrets.PINATA_JWT }}
