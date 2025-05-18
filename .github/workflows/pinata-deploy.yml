@@ -25,6 +25,6 @@ jobs:
         run: npx quartz build
 
       - name: Upload to Pinata
-        run: node uploadToPinata.js
+        run: node uploadToPinata.cjs
         env:
           PINATA_JWT: ${{ secrets.PINATA_JWT }}
