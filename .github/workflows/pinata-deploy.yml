@@ -1,4 +1,4 @@
-name: Deploy Quartz site to Pinata
+name: Deploy Quartz site to Pinata (public/ only)
 
 on:
   push:
@@ -16,7 +16,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 20
 
       - name: Install dependencies
         run: npm ci
@@ -24,7 +24,7 @@ jobs:
       - name: Build Quartz site
         run: npx quartz build
 
-      - name: Upload to Pinata
-        run: node uploadToPinata.cjs
+      - name: Upload public/ contents to Pinata via group API (v3)
+        run: node .github/scripts/uploadToPinata.mjs
         env:
           PINATA_JWT: ${{ secrets.PINATA_JWT }}
