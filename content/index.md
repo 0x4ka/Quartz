@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to 0xhid3's digital garden
 ---
 
 This is a blank Quartz installation.
