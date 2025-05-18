@@ -8,6 +8,7 @@ on:
 jobs:
   upload:
     runs-on: ubuntu-latest
+    environment: github-pages  # ← ✅ 必須！
 
     steps:
       - uses: actions/checkout@v4
