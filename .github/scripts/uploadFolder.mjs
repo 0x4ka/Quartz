@@ -37,7 +37,7 @@ const fileArray = await collectFiles(publicDir)
 
 const upload = await pinata.upload.public
   .fileArray(fileArray)
-  .name("QuartzSite")
+  .name("0xhid3-quartz")
 
 console.log("✅ Uploaded!")
 console.log("🧬 CID:", upload.cid)
