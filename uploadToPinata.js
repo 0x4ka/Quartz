@@ -7,8 +7,8 @@ const path = require("path")
 
 const PINATA_JWT = process.env.PINATA_JWT
 if (!PINATA_JWT) {
-  throw new Error("PINATA_JWT is not defined in env")
-
+  throw new Error("PINATA_JWT is not defined in env");
+}
 const DIRECTORY_TO_UPLOAD = "./public"
 
 async function uploadFolderToPinata(dirPath) {
