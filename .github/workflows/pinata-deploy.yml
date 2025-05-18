@@ -1,0 +1,30 @@
+name: Deploy Quartz site to Pinata
+
+on:
+  push:
+    branches:
+      - v4
+
+jobs:
+  build-and-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Quartz site
+        run: npx quartz build
+
+      - name: Upload to Pinata
+        run: node uploadToPinata.js
+        env:
+          PINATA_JWT: ${{ secrets.PINATA_JWT }}

@@ -1,4 +1,4 @@
-require("dotenv").config() // 任意。ローカルでは.envから読む用}
+require("dotenv").config() // 任意。ローカルでは.envから読む用
 
 const axios = require("axios")
 const FormData = require("form-data")
