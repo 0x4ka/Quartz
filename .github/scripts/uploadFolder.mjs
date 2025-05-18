@@ -1,51 +1,43 @@
-import fs from 'fs';
-import path from 'path';
-import FormData from 'form-data';
-import got from 'got';
-import dotenv from 'dotenv';
+import { PinataSDK } from "pinata"
+import fs from "fs/promises"
+import path from "path"
+import { Blob } from "buffer"
+import { fileFromBuffer } from "web3-file"
+import dotenv from "dotenv"
 
-dotenv.config();
+dotenv.config()
 
-const PINATA_JWT = process.env.PINATA_JWT; // 環境変数からJWTを取得
-const PUBLIC_DIR = path.join(process.cwd(), 'public');
+const pinata = new PinataSDK({
+  pinataJwt: process.env.PINATA_JWT,
+})
 
-async function uploadFolder() {
-  const form = new FormData();
+const publicDir = "./public"
 
-  // publicディレクトリ内のファイルを再帰的に読み込む
-  function readFilesRecursively(dir, base = '') {
-    const entries = fs.readdirSync(dir, { withFileTypes: true });
-    for (const entry of entries) {
-      const fullPath = path.join(dir, entry.name);
-      const relativePath = path.join(base, entry.name);
-      if (entry.isDirectory()) {
-        readFilesRecursively(fullPath, relativePath);
-      } else {
-        form.append('file', fs.createReadStream(fullPath), {
-          filepath: relativePath, // 相対パスを指定
-        });
-      }
+// 再帰的にファイルを集めて File[] に変換
+async function collectFiles(dir, base = "") {
+  const entries = await fs.readdir(dir, { withFileTypes: true })
+  const files = []
+
+  for (const entry of entries) {
+    const fullPath = path.join(dir, entry.name)
+    const relativePath = path.join(base, entry.name)
+
+    if (entry.isDirectory()) {
+      const subfiles = await collectFiles(fullPath, relativePath)
+      files.push(...subfiles)
+    } else {
+      const content = await fs.readFile(fullPath)
+      const file = await fileFromBuffer(content, relativePath)
+      files.push(file)
     }
   }
 
-  readFilesRecursively(PUBLIC_DIR);
-
-  // wrapWithDirectoryオプションを設定
-  form.append('pinataOptions', JSON.stringify({ wrapWithDirectory: true }));
-
-  try {
-    const response = await got.post('https://api.pinata.cloud/pinning/pinFileToIPFS', {
-      body: form,
-      headers: {
-        Authorization: `Bearer ${PINATA_JWT}`,
-        ...form.getHeaders(),
-      },
-    }).json();
-
-    console.log('✅ アップロード成功:', response);
-  } catch (error) {
-    console.error('❌ アップロード失敗:', error.response?.body || error.message);
-  }
+  return files
 }
 
-uploadFolder();
+const fileArray = await collectFiles(publicDir)
+
+const upload = await pinata.upload.public
+  .fileArray(fileArray)
+  .name("QuartzSite")
+  .key
