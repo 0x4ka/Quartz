@@ -1,6 +1,6 @@
 ---
 title: "Pinky Protocol"
-date: 1970-01-20T11:50:18.009Z
+date: May 16, 2023 (TZ: UTC+9)
 tags: 
 ---
 

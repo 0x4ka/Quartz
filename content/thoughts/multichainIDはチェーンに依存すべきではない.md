@@ -1,6 +1,6 @@
 ---
 title: "multichainIDはチェーンに依存すべきではない"
-date: 1970-01-20T19:29:54.755Z
+date: March 30, 2024 (TZ: UTC+9)
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "mitsu aka 清原"
-date: 1970-01-20T19:06:28.629Z
+date: March 14, 2024 (TZ: UTC+9)
 tags: 
 ---
 

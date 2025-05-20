@@ -1,6 +1,6 @@
 ---
 title: "script_all"
-date: 1970-01-20T23:13:01.306Z
+date: September 1, 2024 (TZ: UTC+9)
 tags: 
 ---
 

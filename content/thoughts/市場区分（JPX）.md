@@ -1,6 +1,6 @@
 ---
 title: "市場区分（JPX）"
-date: 1970-01-20T10:48:43.568Z
+date: April 3, 2023 (TZ: UTC+9)
 tags: 
 ---
 

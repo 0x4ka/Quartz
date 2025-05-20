@@ -1,6 +1,6 @@
 ---
 title: "sugipy"
-date: 1970-01-20T19:08:01.283Z
+date: March 15, 2024 (TZ: UTC+9)
 tags: 
 ---
 

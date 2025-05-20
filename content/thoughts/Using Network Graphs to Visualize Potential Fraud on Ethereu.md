@@ -1,6 +1,6 @@
 ---
 title: "Using Network Graphs to Visualize Potential Fraud on Ethereum Blockchain | NVIDIA Technical Blog"
-date: 1970-01-20T19:36:44.515Z
+date: April 4, 2024 (TZ: UTC+9)
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Gussan"
-date: 1970-01-20T19:09:26.068Z
+date: March 16, 2024 (TZ: UTC+9)
 tags: 
 ---
 

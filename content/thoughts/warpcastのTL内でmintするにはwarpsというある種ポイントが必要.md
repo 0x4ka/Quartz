@@ -1,6 +1,6 @@
 ---
 title: "warpcastのTL内でmintするにはwarpsというある種ポイントが必要"
-date: 1970-01-20T19:26:29.832Z
+date: March 28, 2024 (TZ: UTC+9)
 tags: 
 ---
 

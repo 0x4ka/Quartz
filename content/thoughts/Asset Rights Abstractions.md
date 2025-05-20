@@ -1,6 +1,6 @@
 ---
 title: "Asset Rights Abstractions"
-date: 1970-01-20T11:35:01.958Z
+date: May 6, 2023 (TZ: UTC+9)
 tags: 
 ---
 

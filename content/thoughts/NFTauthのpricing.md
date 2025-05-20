@@ -1,6 +1,6 @@
 ---
 title: "NFTauthのpricing"
-date: 1970-01-20T11:43:01.243Z
+date: May 11, 2023 (TZ: UTC+9)
 tags: 
 ---
 

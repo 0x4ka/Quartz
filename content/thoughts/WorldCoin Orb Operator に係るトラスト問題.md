@@ -1,6 +1,6 @@
 ---
 title: "WorldCoin Orb Operator に係るトラスト問題"
-date: 1970-01-20T11:15:40.224Z
+date: April 22, 2023 (TZ: UTC+9)
 tags: 
 ---
 

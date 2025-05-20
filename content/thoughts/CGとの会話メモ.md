@@ -1,6 +1,6 @@
 ---
 title: "CGとの会話メモ"
-date: 1970-01-20T11:49:25.568Z
+date: May 16, 2023 (TZ: UTC+9)
 tags: 
 ---
 

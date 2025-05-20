@@ -1,6 +1,6 @@
 ---
 title: "HOWの事業が多すぎて"
-date: 1970-01-20T23:02:41.315Z
+date: August 25, 2024 (TZ: UTC+9)
 tags: 
 ---
 

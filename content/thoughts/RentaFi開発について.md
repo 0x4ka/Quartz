@@ -1,6 +1,6 @@
 ---
 title: "RentaFi開発について"
-date: 1970-01-20T11:33:14.531Z
+date: May 4, 2023 (TZ: UTC+9)
 tags: 
 ---
 

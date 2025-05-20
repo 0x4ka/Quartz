@@ -1,6 +1,6 @@
 ---
 title: "SuperChain"
-date: 1970-01-20T09:55:35.371Z
+date: February 25, 2023 (TZ: UTC+9)
 tags: 
 ---
 

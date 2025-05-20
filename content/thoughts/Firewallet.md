@@ -1,6 +1,6 @@
 ---
 title: "Firewallet"
-date: 1970-01-20T11:37:05.347Z
+date: May 7, 2023 (TZ: UTC+9)
 tags: 
 ---
 

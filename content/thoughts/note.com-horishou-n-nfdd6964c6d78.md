@@ -1,5 +1,5 @@
 ---
 title: "note.com/horishou/n/nfdd6964c6d78"
-date: 1970-01-20T19:06:56.218Z
+date: March 14, 2024 (TZ: UTC+9)
 tags: 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Yearn Finance の Guard 実装について"
-date: 1970-01-20T11:47:53.190Z
+date: May 14, 2023 (TZ: UTC+9)
 tags: 
 ---
 

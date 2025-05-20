@@ -1,6 +1,6 @@
 ---
 title: "ハッカソン振り返り @ETHGlobalTokyo"
-date: 1970-01-20T11:13:25.639Z
+date: April 21, 2023 (TZ: UTC+9)
 tags: 
 ---
 

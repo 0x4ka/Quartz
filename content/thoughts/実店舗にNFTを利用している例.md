@@ -1,6 +1,6 @@
 ---
 title: "実店舗にNFTを利用している例"
-date: 1970-01-20T05:04:07.041Z
+date: August 7, 2022 (TZ: UTC+9)
 tags: 
 ---
 

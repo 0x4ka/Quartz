@@ -1,6 +1,6 @@
 ---
 title: "NiftyApes: Harberger Style Lending Auctions"
-date: 1970-01-20T12:07:17.322Z
+date: May 28, 2023 (TZ: UTC+9)
 tags: 
 ---
 

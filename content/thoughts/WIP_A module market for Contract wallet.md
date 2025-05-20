@@ -1,6 +1,6 @@
 ---
 title: "WIP_A module market for Contract wallet"
-date: 1970-01-20T18:19:18.949Z
+date: February 10, 2024 (TZ: UTC+9)
 tags: 
 ---
 

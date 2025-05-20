@@ -1,6 +1,6 @@
 ---
 title: "NFTauthのポイント施策"
-date: 1970-01-20T11:17:52.916Z
+date: April 24, 2023 (TZ: UTC+9)
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "PWN Safe"
-date: 1970-01-20T11:34:40.260Z
+date: May 5, 2023 (TZ: UTC+9)
 tags: 
 ---
 

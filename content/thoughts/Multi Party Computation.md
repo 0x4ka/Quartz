@@ -1,6 +1,6 @@
 ---
 title: "Multi Party Computation"
-date: 1970-01-20T07:56:59.119Z
+date: December 5, 2022 (TZ: UTC+9)
 tags: 
 ---
 

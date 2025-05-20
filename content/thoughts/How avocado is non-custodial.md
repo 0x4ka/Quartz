@@ -1,6 +1,6 @@
 ---
 title: "How avocado is non-custodial"
-date: 1970-01-20T11:37:17.802Z
+date: May 7, 2023 (TZ: UTC+9)
 tags: 
 ---
 

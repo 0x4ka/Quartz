@@ -1,6 +1,6 @@
 ---
 title: "Justin Sun雄すぎ"
-date: 1970-01-20T10:58:51.358Z
+date: April 10, 2023 (TZ: UTC+9)
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Rental NFT, Contract Wallet, Network Effect of NFTについて研究している会社"
-date: 1970-01-20T19:31:08.958Z
+date: March 31, 2024 (TZ: UTC+9)
 tags: 
 ---
 

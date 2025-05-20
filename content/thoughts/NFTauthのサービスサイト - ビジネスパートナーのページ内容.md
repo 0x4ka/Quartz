@@ -1,6 +1,6 @@
 ---
 title: "NFTauthのサービスサイト - ビジネスパートナーのページ内容"
-date: 1970-01-20T08:55:01.731Z
+date: January 14, 2023 (TZ: UTC+9)
 tags: 
 ---
 

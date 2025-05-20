@@ -1,6 +1,6 @@
 ---
 title: "Safe Module"
-date: 1970-01-20T11:27:29.142Z
+date: April 30, 2023 (TZ: UTC+9)
 tags: 
 ---
 

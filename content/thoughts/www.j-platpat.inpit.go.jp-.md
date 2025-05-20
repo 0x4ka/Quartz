@@ -1,6 +1,6 @@
 ---
 title: "www.j-platpat.inpit.go.jp/"
-date: 1970-01-20T11:42:48.377Z
+date: May 11, 2023 (TZ: UTC+9)
 tags: 
 ---
 

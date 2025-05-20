@@ -1,6 +1,6 @@
 ---
 title: "pieの利益率を概算"
-date: 1970-01-20T10:59:57.039Z
+date: April 11, 2023 (TZ: UTC+9)
 tags: 
 ---
 

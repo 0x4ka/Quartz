@@ -1,6 +1,6 @@
 ---
 title: "building dapp? consider AA implications"
-date: 1970-01-20T11:37:19.244Z
+date: May 7, 2023 (TZ: UTC+9)
 tags: 
 ---
 

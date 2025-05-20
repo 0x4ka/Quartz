@@ -1,6 +1,6 @@
 ---
 title: "wip ブロックスペース　コモディティ"
-date: 1970-01-20T10:47:44.361Z
+date: April 3, 2023 (TZ: UTC+9)
 tags: 
 ---
 

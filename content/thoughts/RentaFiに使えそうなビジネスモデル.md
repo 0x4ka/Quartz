@@ -1,6 +1,6 @@
 ---
 title: "RentaFiに使えそうなビジネスモデル"
-date: 1970-01-20T09:30:44.448Z
+date: February 8, 2023 (TZ: UTC+9)
 tags: 
 ---
 

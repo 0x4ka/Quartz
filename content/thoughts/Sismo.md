@@ -1,6 +1,6 @@
 ---
 title: "Sismo"
-date: 1970-01-20T10:47:46.767Z
+date: April 3, 2023 (TZ: UTC+9)
 tags: 
 ---
 

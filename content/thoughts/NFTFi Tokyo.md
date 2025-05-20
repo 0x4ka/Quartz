@@ -1,6 +1,6 @@
 ---
 title: "NFTFi Tokyo"
-date: 1970-01-20T11:23:12.212Z
+date: April 27, 2023 (TZ: UTC+9)
 tags: 
 ---
 

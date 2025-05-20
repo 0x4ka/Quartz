@@ -1,6 +1,6 @@
 ---
 title: "About an analysis of the price formation process in the NFT market"
-date: 1970-01-20T11:21:57.674Z
+date: April 26, 2023 (TZ: UTC+9)
 tags: 
 ---
 

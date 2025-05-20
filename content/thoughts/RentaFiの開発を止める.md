@@ -1,6 +1,6 @@
 ---
 title: "RentaFiの開発を止める"
-date: 1970-01-20T11:33:28.401Z
+date: May 4, 2023 (TZ: UTC+9)
 tags: 
 ---
 

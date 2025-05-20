@@ -1,6 +1,6 @@
 ---
 title: "witness.co/blog/introducing-witness Introducing Witness"
-date: 1970-01-20T19:17:00.017Z
+date: March 21, 2024 (TZ: UTC+9)
 tags: 
 ---
 

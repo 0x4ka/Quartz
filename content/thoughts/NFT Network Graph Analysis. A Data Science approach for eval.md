@@ -1,6 +1,6 @@
 ---
 title: "NFT Network Graph Analysis. A Data Science approach for evaluating… | by Jason Schwartz | Medium"
-date: 1970-01-20T19:36:44.534Z
+date: April 4, 2024 (TZ: UTC+9)
 tags: 
 ---
 

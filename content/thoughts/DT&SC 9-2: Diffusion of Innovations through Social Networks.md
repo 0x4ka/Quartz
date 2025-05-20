@@ -1,6 +1,6 @@
 ---
 title: "DT&SC 9-2: Diffusion of Innovations through Social Networks"
-date: 1970-01-20T19:31:28.696Z
+date: March 31, 2024 (TZ: UTC+9)
 tags: 
 ---
 

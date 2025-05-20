@@ -1,6 +1,6 @@
 ---
 title: "Why we need a Gradual Ownership?"
-date: 1970-01-20T12:55:01.572Z
+date: June 30, 2023 (TZ: UTC+9)
 tags: 
 ---
 

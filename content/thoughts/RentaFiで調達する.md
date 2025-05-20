@@ -1,6 +1,6 @@
 ---
 title: "RentaFiで調達する"
-date: 1970-01-20T11:21:24.547Z
+date: April 26, 2023 (TZ: UTC+9)
 tags: 
 ---
 

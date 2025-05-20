@@ -1,6 +1,6 @@
 ---
 title: "Yuki"
-date: 1970-01-20T12:11:08.171Z
+date: May 31, 2023 (TZ: UTC+9)
 tags: 
 ---
 

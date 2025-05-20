@@ -1,6 +1,6 @@
 ---
 title: "mooonはミント数減ってきた"
-date: 1970-01-20T19:36:52.921Z
+date: April 4, 2024 (TZ: UTC+9)
 tags: 
 ---
 

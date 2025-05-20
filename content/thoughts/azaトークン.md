@@ -1,6 +1,6 @@
 ---
 title: "azaトークン"
-date: 1970-01-20T20:10:30.296Z
+date: April 28, 2024 (TZ: UTC+9)
 tags: 
 ---
 

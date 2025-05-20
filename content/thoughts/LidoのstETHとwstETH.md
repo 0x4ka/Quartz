@@ -1,6 +1,6 @@
 ---
 title: "LidoのstETHとwstETH"
-date: 1970-01-20T12:19:18.699Z
+date: June 5, 2023 (TZ: UTC+9)
 tags: 
 ---
 

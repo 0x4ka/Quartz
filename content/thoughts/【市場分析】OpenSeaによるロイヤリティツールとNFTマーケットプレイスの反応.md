@@ -1,6 +1,6 @@
 ---
 title: "【市場分析】OpenSeaによるロイヤリティツールとNFTマーケットプレイスの反応"
-date: 1970-01-20T07:39:41.160Z
+date: November 23, 2022 (TZ: UTC+9)
 tags: 
 ---
 

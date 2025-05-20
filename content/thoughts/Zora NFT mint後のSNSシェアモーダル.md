@@ -1,6 +1,6 @@
 ---
 title: "Zora NFT mint後のSNSシェアモーダル"
-date: 1970-01-20T19:26:29.893Z
+date: March 28, 2024 (TZ: UTC+9)
 tags: 
 ---
 

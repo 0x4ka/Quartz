@@ -1,6 +1,6 @@
 ---
 title: "Worldcoin Project"
-date: 1970-01-20T10:59:11.785Z
+date: April 11, 2023 (TZ: UTC+9)
 tags: 
 ---
 

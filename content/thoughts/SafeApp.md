@@ -1,6 +1,6 @@
 ---
 title: "SafeApp"
-date: 1970-01-20T11:19:09.888Z
+date: April 25, 2023 (TZ: UTC+9)
 tags: 
 ---
 

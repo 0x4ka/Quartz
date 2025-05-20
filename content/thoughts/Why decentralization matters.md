@@ -1,6 +1,6 @@
 ---
 title: "Why decentralization matters"
-date: 1970-01-20T10:26:29.955Z
+date: March 19, 2023 (TZ: UTC+9)
 tags: 
 ---
 

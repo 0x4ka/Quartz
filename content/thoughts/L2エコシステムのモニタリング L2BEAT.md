@@ -1,6 +1,6 @@
 ---
 title: "L2エコシステムのモニタリング L2BEAT"
-date: 1970-01-20T19:26:29.082Z
+date: March 28, 2024 (TZ: UTC+9)
 tags: 
 ---
 

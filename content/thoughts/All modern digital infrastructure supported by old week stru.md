@@ -1,6 +1,6 @@
 ---
 title: "All modern digital infrastructure supported by old week structure"
-date: 1970-01-20T11:42:47.911Z
+date: May 11, 2023 (TZ: UTC+9)
 tags: 
 ---
 

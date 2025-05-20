@@ -1,6 +1,6 @@
 ---
 title: "Partial Common Ownership"
-date: 1970-01-20T11:58:10.602Z
+date: May 22, 2023 (TZ: UTC+9)
 tags: 
 ---
 

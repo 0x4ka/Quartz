@@ -1,6 +1,6 @@
 ---
 title: "estieのコンパウンド"
-date: 1970-01-20T20:31:16.642Z
+date: May 12, 2024 (TZ: UTC+9)
 tags: 
 ---
 

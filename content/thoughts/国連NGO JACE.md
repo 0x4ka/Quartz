@@ -1,6 +1,6 @@
 ---
 title: "国連NGO JACE"
-date: 1970-01-20T18:19:34.951Z
+date: February 10, 2024 (TZ: UTC+9)
 tags: 
 ---
 

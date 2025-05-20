@@ -1,6 +1,6 @@
 ---
 title: "Gradual: Streaming NFT for gradual ownership"
-date: 1970-01-20T12:10:25.516Z
+date: May 30, 2023 (TZ: UTC+9)
 tags: 
 ---
 

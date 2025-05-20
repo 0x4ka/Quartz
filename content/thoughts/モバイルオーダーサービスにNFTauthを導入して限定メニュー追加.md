@@ -1,6 +1,6 @@
 ---
 title: "モバイルオーダーサービスにNFTauthを導入して限定メニュー追加"
-date: 1970-01-20T08:55:01.743Z
+date: January 14, 2023 (TZ: UTC+9)
 tags: 
 ---
 

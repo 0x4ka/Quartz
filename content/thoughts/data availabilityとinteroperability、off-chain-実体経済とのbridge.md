@@ -1,6 +1,6 @@
 ---
 title: "data availabilityとinteroperability、off-chain/実体経済とのbridge"
-date: 1970-01-20T14:06:02.600Z
+date: August 18, 2023 (TZ: UTC+9)
 tags: 
 ---
 

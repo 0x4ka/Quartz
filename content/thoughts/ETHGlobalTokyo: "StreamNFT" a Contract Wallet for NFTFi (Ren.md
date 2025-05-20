@@ -1,6 +1,6 @@
 ---
 title: "ETHGlobalTokyo: "StreamNFT" a Contract Wallet for NFTFi (Rental)"
-date: 1970-01-20T11:33:15.472Z
+date: May 4, 2023 (TZ: UTC+9)
 tags: 
 ---
 

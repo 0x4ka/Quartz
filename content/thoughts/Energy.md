@@ -1,6 +1,6 @@
 ---
 title: "Energy"
-date: 1970-01-20T11:16:27.547Z
+date: April 23, 2023 (TZ: UTC+9)
 tags: 
 ---
 

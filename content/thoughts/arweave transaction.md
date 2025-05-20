@@ -1,6 +1,6 @@
 ---
 title: "arweave transaction"
-date: 1970-01-20T19:26:29.688Z
+date: March 28, 2024 (TZ: UTC+9)
 tags: 
 ---
 

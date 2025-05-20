@@ -1,6 +1,6 @@
 ---
 title: "Network Analysis: Integrating Social Network Theory, Method, and Application with R"
-date: 1970-01-20T19:36:44.586Z
+date: April 4, 2024 (TZ: UTC+9)
 tags: 
 ---
 

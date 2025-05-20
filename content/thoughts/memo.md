@@ -1,6 +1,6 @@
 ---
 title: "memo"
-date: 1970-01-20T11:24:07.201Z
+date: April 28, 2023 (TZ: UTC+9)
 tags: 
 ---
 

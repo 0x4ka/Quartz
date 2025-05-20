@@ -1,6 +1,6 @@
 ---
 title: "Safeへの質問"
-date: 1970-01-20T11:39:07.644Z
+date: May 8, 2023 (TZ: UTC+9)
 tags: 
 ---
 

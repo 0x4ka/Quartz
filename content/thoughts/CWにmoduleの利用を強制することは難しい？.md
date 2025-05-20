@@ -1,6 +1,6 @@
 ---
 title: "CWにmoduleの利用を強制することは難しい？"
-date: 1970-01-20T11:21:20.781Z
+date: April 26, 2023 (TZ: UTC+9)
 tags: 
 ---
 

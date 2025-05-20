@@ -1,6 +1,6 @@
 ---
 title: "SC wallets are second-class citizens on Solana as well."
-date: 1970-01-20T11:33:16.299Z
+date: May 4, 2023 (TZ: UTC+9)
 tags: 
 ---
 

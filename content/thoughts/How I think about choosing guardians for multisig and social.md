@@ -1,6 +1,6 @@
 ---
 title: "How I think about choosing guardians for multisig and social recovery wallets"
-date: 1970-01-20T11:40:50.568Z
+date: May 10, 2023 (TZ: UTC+9)
 tags: 
 ---
 

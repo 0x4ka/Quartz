@@ -1,6 +1,6 @@
 ---
 title: "Superfluid"
-date: 1970-01-20T11:02:51.145Z
+date: April 13, 2023 (TZ: UTC+9)
 tags: 
 ---
 

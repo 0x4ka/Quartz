@@ -1,6 +1,6 @@
 ---
 title: "The Three Transitions"
-date: 1970-01-20T13:08:07.234Z
+date: July 9, 2023 (TZ: UTC+9)
 tags: 
 ---
 

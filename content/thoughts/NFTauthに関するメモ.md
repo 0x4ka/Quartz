@@ -1,6 +1,6 @@
 ---
 title: "NFTauthに関するメモ"
-date: 1970-01-20T13:58:18.507Z
+date: August 13, 2023 (TZ: UTC+9)
 tags: 
 ---
 

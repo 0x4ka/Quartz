@@ -1,6 +1,6 @@
 ---
 title: "TraderJoe"
-date: 1970-01-20T12:14:42.856Z
+date: June 2, 2023 (TZ: UTC+9)
 tags: 
 ---
 

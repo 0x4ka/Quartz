@@ -1,6 +1,6 @@
 ---
 title: "荒巻さんのFB"
-date: 1970-01-20T11:38:45.795Z
+date: May 8, 2023 (TZ: UTC+9)
 tags: 
 ---
 

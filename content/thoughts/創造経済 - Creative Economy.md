@@ -1,6 +1,6 @@
 ---
 title: "創造経済 - Creative Economy"
-date: 1970-01-20T11:16:26.060Z
+date: April 23, 2023 (TZ: UTC+9)
 tags: 
 ---
 

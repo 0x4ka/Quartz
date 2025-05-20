@@ -1,6 +1,6 @@
 ---
 title: "/nishio/概念エンジニアリングって何？"
-date: 1970-01-20T19:06:24.215Z
+date: March 14, 2024 (TZ: UTC+9)
 tags: 
 ---
 

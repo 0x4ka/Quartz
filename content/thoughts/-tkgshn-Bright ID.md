@@ -1,6 +1,6 @@
 ---
 title: "/tkgshn/Bright ID"
-date: 1970-01-20T19:09:54.337Z
+date: March 16, 2024 (TZ: UTC+9)
 tags: 
 ---
 

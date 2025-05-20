@@ -1,6 +1,6 @@
 ---
 title: "NFTの種別と価値"
-date: 1970-01-20T07:55:54.613Z
+date: December 4, 2022 (TZ: UTC+9)
 tags: 
 ---
 

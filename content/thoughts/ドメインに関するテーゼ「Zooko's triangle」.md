@@ -1,6 +1,6 @@
 ---
 title: "ドメインに関するテーゼ「Zooko's triangle」"
-date: 1970-01-20T19:06:28.595Z
+date: March 14, 2024 (TZ: UTC+9)
 tags: 
 ---
 

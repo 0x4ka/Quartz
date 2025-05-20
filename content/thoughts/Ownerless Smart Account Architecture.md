@@ -1,6 +1,6 @@
 ---
 title: "Ownerless Smart Account Architecture"
-date: 1970-01-20T11:47:26.333Z
+date: May 14, 2023 (TZ: UTC+9)
 tags: 
 ---
 

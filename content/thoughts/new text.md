@@ -1,6 +1,6 @@
 ---
 title: "new text"
-date: 1970-01-20T19:31:07.409Z
+date: March 31, 2024 (TZ: UTC+9)
 tags: 
 ---
 

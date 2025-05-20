@@ -1,6 +1,6 @@
 ---
 title: "EVMの処理速度"
-date: 1970-01-20T12:53:14.013Z
+date: June 29, 2023 (TZ: UTC+9)
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "暇つぶしでみるスタートアップ系youtube ch"
-date: 1970-01-21T05:19:00.937Z
+date: May 13, 2025 (TZ: UTC+9)
 tags: 
 ---
 

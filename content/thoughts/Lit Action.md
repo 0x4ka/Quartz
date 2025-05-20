@@ -1,6 +1,6 @@
 ---
 title: "Lit Action"
-date: 1970-01-20T18:14:33.828Z
+date: February 7, 2024 (TZ: UTC+9)
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "/tkgshn/Ethereumことワールドコンピュータはデジタル公共財のために産まれた。歴史振り返りと今後について "
-date: 1970-01-20T07:55:57.655Z
+date: December 4, 2022 (TZ: UTC+9)
 tags: 
 ---
 

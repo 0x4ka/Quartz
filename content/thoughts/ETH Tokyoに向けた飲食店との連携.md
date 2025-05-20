@@ -1,6 +1,6 @@
 ---
 title: "ETH Tokyoに向けた飲食店との連携"
-date: 1970-01-20T10:08:17.777Z
+date: March 6, 2023 (TZ: UTC+9)
 tags: 
 ---
 

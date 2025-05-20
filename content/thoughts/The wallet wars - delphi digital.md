@@ -1,6 +1,6 @@
 ---
 title: "The wallet wars - delphi digital"
-date: 1970-01-20T13:24:21.198Z
+date: July 20, 2023 (TZ: UTC+9)
 tags: 
 ---
 

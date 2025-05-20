@@ -1,6 +1,6 @@
 ---
 title: "Fungify"
-date: 1970-01-20T10:10:43.348Z
+date: March 8, 2023 (TZ: UTC+9)
 tags: 
 ---
 

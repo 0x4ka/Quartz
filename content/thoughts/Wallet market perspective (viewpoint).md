@@ -1,6 +1,6 @@
 ---
 title: "Wallet market perspective (viewpoint)"
-date: 1970-01-20T11:24:51.785Z
+date: April 28, 2023 (TZ: UTC+9)
 tags: 
 ---
 

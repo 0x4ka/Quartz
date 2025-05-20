@@ -1,6 +1,6 @@
 ---
 title: "WiiショッピングチャンネルあるいはUGC"
-date: 1970-01-20T10:47:42.015Z
+date: April 3, 2023 (TZ: UTC+9)
 tags: 
 ---
 

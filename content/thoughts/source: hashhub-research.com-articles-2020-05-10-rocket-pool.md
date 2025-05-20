@@ -1,6 +1,6 @@
 ---
 title: "source: hashhub-research.com/articles/2020-05-10-rocket-pool-overview"
-date: 1970-01-20T11:57:13.483Z
+date: May 21, 2023 (TZ: UTC+9)
 tags: 
 ---
 

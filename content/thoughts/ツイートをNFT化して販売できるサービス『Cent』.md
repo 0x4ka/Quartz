@@ -1,6 +1,6 @@
 ---
 title: "ツイートをNFT化して販売できるサービス『Cent』"
-date: 1970-01-20T07:55:44.662Z
+date: December 4, 2022 (TZ: UTC+9)
 tags: 
 ---
 

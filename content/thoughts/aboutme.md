@@ -1,6 +1,6 @@
 ---
 title: "aboutme"
-date: 1970-01-20T13:04:01.396Z
+date: July 6, 2023 (TZ: UTC+9)
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Lore (prev. Prysm) のウォレットについて"
-date: 1970-01-20T11:48:04.176Z
+date: May 15, 2023 (TZ: UTC+9)
 tags: 
 ---
 

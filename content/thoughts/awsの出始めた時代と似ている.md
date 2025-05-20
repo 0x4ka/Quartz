@@ -1,6 +1,6 @@
 ---
 title: "awsの出始めた時代と似ている"
-date: 1970-01-20T19:28:19.938Z
+date: March 29, 2024 (TZ: UTC+9)
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "no code rollup tool"
-date: 1970-01-20T11:51:36.811Z
+date: May 17, 2023 (TZ: UTC+9)
 tags: 
 ---
 

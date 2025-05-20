@@ -1,6 +1,6 @@
 ---
 title: "hyperstructure"
-date: 1970-01-20T12:37:37.938Z
+date: June 18, 2023 (TZ: UTC+9)
 tags: 
 ---
 

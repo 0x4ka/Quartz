@@ -1,6 +1,6 @@
 ---
 title: "RentaFiは所有をゆるくする"
-date: 1970-01-20T11:21:36.720Z
+date: April 26, 2023 (TZ: UTC+9)
 tags: 
 ---
 

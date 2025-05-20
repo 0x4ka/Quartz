@@ -1,6 +1,6 @@
 ---
 title: "digital currency industry の方向性"
-date: 1970-01-20T09:55:35.872Z
+date: February 25, 2023 (TZ: UTC+9)
 tags: 
 ---
 

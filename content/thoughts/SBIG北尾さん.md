@@ -1,6 +1,6 @@
 ---
 title: "SBIG北尾さん"
-date: 1970-01-20T18:19:34.744Z
+date: February 10, 2024 (TZ: UTC+9)
 tags: 
 ---
 

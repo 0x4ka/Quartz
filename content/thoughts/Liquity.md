@@ -1,6 +1,6 @@
 ---
 title: "Liquity"
-date: 1970-01-20T12:14:52.625Z
+date: June 2, 2023 (TZ: UTC+9)
 tags: 
 ---
 

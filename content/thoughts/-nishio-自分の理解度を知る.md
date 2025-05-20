@@ -1,6 +1,6 @@
 ---
 title: "/nishio/自分の理解度を知る"
-date: 1970-01-20T19:06:24.289Z
+date: March 14, 2024 (TZ: UTC+9)
 tags: 
 ---
 

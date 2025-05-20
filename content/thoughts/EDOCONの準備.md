@@ -1,6 +1,6 @@
 ---
 title: "EDOCONの準備"
-date: 1970-01-20T22:20:54.064Z
+date: July 27, 2024 (TZ: UTC+9)
 tags: 
 ---
 

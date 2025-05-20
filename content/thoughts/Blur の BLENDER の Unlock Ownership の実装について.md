@@ -1,6 +1,6 @@
 ---
 title: "Blur の BLENDER の Unlock Ownership の実装について"
-date: 1970-01-20T11:48:59.340Z
+date: May 15, 2023 (TZ: UTC+9)
 tags: 
 ---
 

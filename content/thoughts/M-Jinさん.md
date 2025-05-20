@@ -1,6 +1,6 @@
 ---
 title: "M-Jinさん"
-date: 1970-01-20T23:13:01.273Z
+date: September 1, 2024 (TZ: UTC+9)
 tags: 
 ---
 

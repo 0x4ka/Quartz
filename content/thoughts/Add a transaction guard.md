@@ -1,6 +1,6 @@
 ---
 title: "Add a transaction guard"
-date: 1970-01-20T11:58:06.482Z
+date: May 22, 2023 (TZ: UTC+9)
 tags: 
 ---
 

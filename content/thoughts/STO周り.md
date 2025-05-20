@@ -1,6 +1,6 @@
 ---
 title: "STO周り"
-date: 1970-01-20T18:09:38.954Z
+date: February 4, 2024 (TZ: UTC+9)
 tags: 
 ---
 

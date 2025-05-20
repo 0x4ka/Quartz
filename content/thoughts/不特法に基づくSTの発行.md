@@ -1,6 +1,6 @@
 ---
 title: "不特法に基づくSTの発行"
-date: 1970-01-20T18:19:35.356Z
+date: February 10, 2024 (TZ: UTC+9)
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Bootstrapping Web3 Networks"
-date: 1970-01-20T19:31:00.221Z
+date: March 31, 2024 (TZ: UTC+9)
 tags: 
 ---
 

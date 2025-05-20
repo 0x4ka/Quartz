@@ -1,6 +1,6 @@
 ---
 title: "NFTのよくある誤解"
-date: 1970-01-20T07:55:56.989Z
+date: December 4, 2022 (TZ: UTC+9)
 tags: 
 ---
 

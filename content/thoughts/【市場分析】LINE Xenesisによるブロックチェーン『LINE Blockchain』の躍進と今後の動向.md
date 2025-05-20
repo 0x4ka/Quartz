@@ -1,6 +1,6 @@
 ---
 title: "【市場分析】LINE Xenesisによるブロックチェーン『LINE Blockchain』の躍進と今後の動向"
-date: 1970-01-20T08:10:37.892Z
+date: December 15, 2022 (TZ: UTC+9)
 tags: 
 ---
 

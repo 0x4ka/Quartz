@@ -1,6 +1,6 @@
 ---
 title: "LINEトラクション"
-date: 1970-01-20T19:33:49.986Z
+date: April 2, 2024 (TZ: UTC+9)
 tags: 
 ---
 

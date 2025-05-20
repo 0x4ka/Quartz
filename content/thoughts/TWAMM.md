@@ -1,6 +1,6 @@
 ---
 title: "TWAMM"
-date: 1970-01-20T13:02:24.545Z
+date: July 5, 2023 (TZ: UTC+9)
 tags: 
 ---
 

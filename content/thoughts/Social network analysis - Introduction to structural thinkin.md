@@ -1,6 +1,6 @@
 ---
 title: "Social network analysis - Introduction to structural thinking: Dr Bernie Hogan, University of Oxford"
-date: 1970-01-20T19:36:34.402Z
+date: April 4, 2024 (TZ: UTC+9)
 tags: 
 ---
 

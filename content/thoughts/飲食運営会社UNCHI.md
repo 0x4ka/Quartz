@@ -1,6 +1,6 @@
 ---
 title: "飲食運営会社UNCHI"
-date: 1970-01-20T10:35:16.571Z
+date: March 25, 2023 (TZ: UTC+9)
 tags: 
 ---
 

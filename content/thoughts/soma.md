@@ -1,6 +1,6 @@
 ---
 title: "soma"
-date: 1970-01-20T11:40:00.137Z
+date: May 9, 2023 (TZ: UTC+9)
 tags: 
 ---
 

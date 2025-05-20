@@ -1,6 +1,6 @@
 ---
 title: "Reading...Rhizomatic dApps"
-date: 1970-01-20T11:20:39.021Z
+date: April 26, 2023 (TZ: UTC+9)
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "unWallet の Module アーキテクチャ"
-date: 1970-01-20T11:40:12.591Z
+date: May 9, 2023 (TZ: UTC+9)
 tags: 
 ---
 

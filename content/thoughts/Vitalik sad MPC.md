@@ -1,6 +1,6 @@
 ---
 title: "Vitalik sad MPC"
-date: 1970-01-20T11:33:42.415Z
+date: May 5, 2023 (TZ: UTC+9)
 tags: 
 ---
 

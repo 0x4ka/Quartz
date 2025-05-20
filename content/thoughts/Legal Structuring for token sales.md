@@ -1,6 +1,6 @@
 ---
 title: "Legal Structuring for token sales"
-date: 1970-01-21T00:02:25.748Z
+date: October 6, 2024 (TZ: UTC+9)
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "foundry便利"
-date: 1970-01-20T11:48:02.773Z
+date: May 15, 2023 (TZ: UTC+9)
 tags: 
 ---
 

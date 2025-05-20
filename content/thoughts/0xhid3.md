@@ -1,6 +1,6 @@
 ---
 title: "0xhid3"
-date: 1970-01-20T23:12:03.841Z
+date: September 1, 2024 (TZ: UTC+9)
 tags: 
 ---
 
