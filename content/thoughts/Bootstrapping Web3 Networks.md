@@ -1,0 +1,10 @@
+---
+title: Bootstrapping Web3 Networks
+date: 1970-01-20T19:31:00.221Z
+tags: 
+---
+
+![image](https://scrapbox.io/files/6608e9f31fc945002690f957.png)
+
+[Bootstrapping Web3 Networks: The Limitations of Token Incentives | by Sameer Singh | Breadcrumb.vc](https://breadcrumb.vc/bootstrapping-web3-networks-the-limitations-of-token-incentives-4b57fa54486c?gi=090eded444e8)
+
