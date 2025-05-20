@@ -1,3 +1,9 @@
+---
+title: "All modern digital infrastructure supported by old week structure"
+date: "1970-01-20T11:42:47.911Z"
+tags:
+  
+---
 
 #meme #ironical
 

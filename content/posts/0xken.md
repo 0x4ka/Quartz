@@ -1,3 +1,9 @@
+---
+title: "0xken"
+date: "1970-01-20T11:48:56.141Z"
+tags:
+  
+---
 
 
 This is Kenshiro Kikuchi’s page <img src='https://scrapbox.io/api/pages/0xhid3-private/Scrapbox Beaver/icon' alt='Scrapbox Beaver.icon' height="19.5"/>

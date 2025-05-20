@@ -1,3 +1,9 @@
+---
+title: "ROIC"
+date: "1970-01-20T10:47:52.089Z"
+tags:
+  
+---
 
 source: [ROICとは？ メリットやROE・ROAとの違いとは？ ｜転職ならdoda（デューダ）](https://doda.jp/companyinfo/contents/finance/016.html)
 

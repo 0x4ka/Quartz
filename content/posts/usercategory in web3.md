@@ -1,3 +1,9 @@
+---
+title: "usercategory in web3"
+date: "1970-01-20T19:26:28.950Z"
+tags:
+  
+---
 
 >  Yuki Sato @zkyuki_sushi 2023年10月23日
 >  How to categorize “user” in Web3?

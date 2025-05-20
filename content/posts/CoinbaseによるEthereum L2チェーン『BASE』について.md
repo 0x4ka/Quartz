@@ -1,3 +1,9 @@
+---
+title: "CoinbaseによるEthereum L2チェーン『BASE』について"
+date: "1970-01-20T10:58:35.815Z"
+tags:
+  
+---
 
 #chain
 [CoinbaseのL2「BASE」と一貫した業界への信念 | Ozonlabs](https://ozonlabs.xyz/articles/13)

@@ -1,3 +1,9 @@
+---
+title: "RentaFiに使えそうなビジネスモデル"
+date: "1970-01-20T09:30:44.448Z"
+tags:
+  
+---
 
 ![image](https://scrapbox.io/files/63e35b2f6b729b001c20ba48.png)
 ![image](https://scrapbox.io/files/63e35b3d582f54001b7cfcbd.png)

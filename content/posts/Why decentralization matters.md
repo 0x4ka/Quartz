@@ -1,3 +1,9 @@
+---
+title: "Why decentralization matters"
+date: "1970-01-20T10:26:29.955Z"
+tags:
+  
+---
 
 from: [cdixon | Why decentralization matters](https://cdixon.org/2018/02/18/why-decentralization-matters)
 

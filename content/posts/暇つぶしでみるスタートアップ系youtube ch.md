@@ -1,3 +1,9 @@
+---
+title: "暇つぶしでみるスタートアップ系youtube ch"
+date: "1970-01-21T05:19:00.937Z"
+tags:
+  
+---
 
 [https://www.youtube.com/@yuusaku_buddica/videos](https://www.youtube.com/@yuusaku_buddica/videos)
 [https://www.youtube.com/@letsgonagira/videos](https://www.youtube.com/@letsgonagira/videos)

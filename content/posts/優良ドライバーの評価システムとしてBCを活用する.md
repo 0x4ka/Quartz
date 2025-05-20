@@ -1,3 +1,9 @@
+---
+title: "優良ドライバーの評価システムとしてBCを活用する"
+date: "1970-01-20T10:18:39.436Z"
+tags:
+  
+---
 
 ![image](https://scrapbox.io/files/640f39b5d1fb3d001b29fc6d.png)
 

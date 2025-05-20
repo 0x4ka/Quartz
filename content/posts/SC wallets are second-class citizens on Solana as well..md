@@ -1,3 +1,9 @@
+---
+title: "SC wallets are second-class citizens on Solana as well."
+date: "1970-01-20T11:33:16.299Z"
+tags:
+  
+---
 
 #wallet #WalletContract
 

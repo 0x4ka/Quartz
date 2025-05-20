@@ -1,3 +1,9 @@
+---
+title: "SBIG北尾さん"
+date: "1970-01-20T18:19:34.744Z"
+tags:
+  
+---
 
 [トップマネジメントメッセージ｜SBIホールディングス](https://www.sbigroup.co.jp/company/information/topmessage.html)
 

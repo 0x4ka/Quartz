@@ -1,3 +1,9 @@
+---
+title: "NiftyApes: Harberger Style Lending Auctions"
+date: "1970-01-20T12:07:17.322Z"
+tags:
+  
+---
 
 #Gradual
 source: [NiftyApes: Harberger Style Lending Auctions - NiftyApes: Whitepaper](https://whitepaper.niftyapes.money/#abstract)

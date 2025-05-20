@@ -1,3 +1,9 @@
+---
+title: "ETH Tokyoに向けた飲食店との連携"
+date: "1970-01-20T10:08:17.777Z"
+tags:
+  
+---
 
 [/tkgshn/4月に来たるETH Tokyoに向けて懸念している項目](https://scrapbox.io/tkgshn/4月に来たるETH Tokyoに向けて懸念している項目)
 

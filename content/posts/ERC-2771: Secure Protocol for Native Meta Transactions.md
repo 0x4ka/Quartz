@@ -1,3 +1,9 @@
+---
+title: "ERC-2771: Secure Protocol for Native Meta Transactions"
+date: "1970-01-20T11:37:21.057Z"
+tags:
+  
+---
 
 source: [https://eips.ethereum.org/EIPS/eip-2771](https://eips.ethereum.org/EIPS/eip-2771)
 

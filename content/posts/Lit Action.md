@@ -1,3 +1,9 @@
+---
+title: "Lit Action"
+date: "1970-01-20T18:14:33.828Z"
+tags:
+  
+---
 
 #WalletContract
 source: [/masatojames/Lit Protocol#64321d285beced0000af74ba](https://scrapbox.io/masatojames/Lit Protocol#64321d285beced0000af74ba)

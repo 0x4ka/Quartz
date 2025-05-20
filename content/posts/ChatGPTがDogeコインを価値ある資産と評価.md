@@ -1,3 +1,9 @@
+---
+title: "ChatGPTがDogeコインを価値ある資産と評価"
+date: "1970-01-20T07:57:10.610Z"
+tags:
+  
+---
 
 > [@slashdot](https://twitter.com/slashdot/status/1599170450793574400): @BillyM2k
 > ![image](https://pbs.twimg.com/media/FjFlCycUcAAgsUf.jpg)

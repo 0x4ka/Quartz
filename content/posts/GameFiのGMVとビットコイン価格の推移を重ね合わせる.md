@@ -1,3 +1,9 @@
+---
+title: "GameFiのGMVとビットコイン価格の推移を重ね合わせる"
+date: "1970-01-20T11:42:47.964Z"
+tags:
+  
+---
 
 クソ雑ですがとりあえず手っ取り早くw
 ![image](https://scrapbox.io/files/6420aac1171ad6001cb8b0a5.png)

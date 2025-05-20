@@ -1,3 +1,9 @@
+---
+title: "Gas Abstraction"
+date: "1970-01-20T11:13:25.325Z"
+tags:
+  
+---
 
 source:[Topping up Gas on Avocado | Avocado Help Center](https://help.avocado.instadapp.io/en/articles/7038872-topping-up-gas-on-avocado)
 > ガスアブソリュートとは？

@@ -1,3 +1,9 @@
+---
+title: "Walletfi"
+date: "1970-01-20T11:33:45.111Z"
+tags:
+  
+---
 
 #WalletContract #wallet
 source: [Walletfi](https://www.walletfi.org/)　[WalletFi (@wallet_fi) / Twitter](https://twitter.com/wallet_fi)

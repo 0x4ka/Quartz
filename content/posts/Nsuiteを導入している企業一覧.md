@@ -1,3 +1,9 @@
+---
+title: "Nsuiteを導入している企業一覧"
+date: "1970-01-20T13:20:15.395Z"
+tags:
+  
+---
 
 ![image](https://scrapbox.io/files/64b57bd02b8b08001b046761.png)
 彼らに、Nsuiteの利用について細かく聞いてみる

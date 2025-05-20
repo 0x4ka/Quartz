@@ -1,3 +1,9 @@
+---
+title: "Personal wallet vs Embed wallet"
+date: "1970-01-20T11:36:08.280Z"
+tags:
+  
+---
 
 #wallet
 embed wallet ≒ [[dApp Wallet]]

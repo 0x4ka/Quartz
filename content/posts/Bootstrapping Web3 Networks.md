@@ -1,3 +1,9 @@
+---
+title: "Bootstrapping Web3 Networks"
+date: "1970-01-20T19:31:00.221Z"
+tags:
+  
+---
 
 ![image](https://scrapbox.io/files/6608e9f31fc945002690f957.png)
 

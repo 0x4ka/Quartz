@@ -1,3 +1,9 @@
+---
+title: "直感で良いと思ったらattentionが宙吊りになったタイミングで刺せ"
+date: "1970-01-20T21:36:50.794Z"
+tags:
+  
+---
 
 ![image](https://scrapbox.io/files/641e71666a5828001b02a269.png)
 

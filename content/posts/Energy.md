@@ -1,3 +1,9 @@
+---
+title: "Energy"
+date: "1970-01-20T11:16:27.547Z"
+tags:
+  
+---
 
 source: [Energy - Sam Altman](https://web.archive.org/web/20150629201610/http://blog.samaltman.com/energy)
 

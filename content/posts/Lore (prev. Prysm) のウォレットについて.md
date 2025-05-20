@@ -1,3 +1,9 @@
+---
+title: "Lore (prev. Prysm) のウォレットについて"
+date: "1970-01-20T11:48:04.176Z"
+tags:
+  
+---
 
 #wallet
 source: [Arbitrary Contract - Resource Center](https://docs.lore.xyz/faqs/arbitrary-contract)

@@ -1,3 +1,9 @@
+---
+title: "InstadApp's Action Stack is modulerizable"
+date: "1970-01-20T11:37:50.573Z"
+tags:
+  
+---
 
 #wallet
 

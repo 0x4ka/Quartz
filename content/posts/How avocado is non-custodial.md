@@ -1,3 +1,9 @@
+---
+title: "How avocado is non-custodial"
+date: "1970-01-20T11:37:17.802Z"
+tags:
+  
+---
 
 #WalletContract #wallet
 source: [How Avocado is non-custodial](https://blog.instadapp.io/avocado-non-custodial/)

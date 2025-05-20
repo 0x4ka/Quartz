@@ -1,3 +1,9 @@
+---
+title: "不特法に基づくSTの発行"
+date: "1970-01-20T18:19:35.356Z"
+tags:
+  
+---
 
 [不動産をトークン化するには？〜不特法編〜 | PROPWAVE プロップウェーブ](https://propwave.jp/posts/how-to-tokenize-realestate-with-real-estate-specified-joint-enterprise-law)
 - [[セキュリティトークン]]

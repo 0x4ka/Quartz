@@ -1,3 +1,9 @@
+---
+title: "生成AIスタートアップとスケールング方則"
+date: "1970-01-20T19:30:06.284Z"
+tags:
+  
+---
 
 ![image](https://scrapbox.io/files/6608173b3c5c2700269ab316.png)
 

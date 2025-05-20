@@ -1,3 +1,9 @@
+---
+title: "Gradual: Streaming NFT for gradual ownership"
+date: "1970-01-20T12:10:25.516Z"
+tags:
+  
+---
 
 Ownershipについて
 - NFT等のアセットのownerとして、ウォレットアドレスが記録されている状態

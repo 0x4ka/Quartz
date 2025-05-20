@@ -1,3 +1,9 @@
+---
+title: "Gussan"
+date: "1970-01-20T19:09:26.068Z"
+tags:
+  
+---
 
 ![image](https://scrapbox.io/files/65f4315c4562f8002517efba.jpeg)
 

@@ -1,3 +1,9 @@
+---
+title: "wip_Practice for PBT"
+date: "1970-01-20T11:12:49.986Z"
+tags:
+  
+---
 
 ERC
 - Ethereum Reality Servise

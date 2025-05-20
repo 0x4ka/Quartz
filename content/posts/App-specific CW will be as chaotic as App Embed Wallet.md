@@ -1,3 +1,9 @@
+---
+title: "App-specific CW will be as chaotic as App Embed Wallet"
+date: "1970-01-20T19:30:18.409Z"
+tags:
+  
+---
 
 #Wallet
 

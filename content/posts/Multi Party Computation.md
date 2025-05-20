@@ -1,3 +1,9 @@
+---
+title: "Multi Party Computation"
+date: "1970-01-20T07:56:59.119Z"
+tags:
+  
+---
 
 [Web3Authで企業の秘密鍵管理に革命を](https://www.notion.so/ozonlabs/Web3Auth-2b255b41b0df4c8092e0a5ec8e686d8f)
 - MPC（Multi-Party Computation）とは？

@@ -1,3 +1,9 @@
+---
+title: "モバイルオーダーサービスにNFTauthを導入して限定メニュー追加"
+date: "1970-01-20T08:55:01.743Z"
+tags:
+  
+---
 
 #NFTauth
 [モバイルオーダーシステム比較12選。スマホ注文向けタイプ別紹介｜アスピック](https://www.aspicjapan.org/asu/article/17715)

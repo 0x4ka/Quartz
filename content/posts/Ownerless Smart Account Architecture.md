@@ -1,3 +1,9 @@
+---
+title: "Ownerless Smart Account Architecture"
+date: "1970-01-20T11:47:26.333Z"
+tags:
+  
+---
 
 ![image](https://scrapbox.io/files/6460819284e03b001c665923.png)
 ![image](https://scrapbox.io/files/6460819b47aac9001b0e9c9b.png)

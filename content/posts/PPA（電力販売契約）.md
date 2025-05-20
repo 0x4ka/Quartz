@@ -1,3 +1,9 @@
+---
+title: "PPA（電力販売契約）"
+date: "1970-01-20T18:37:53.976Z"
+tags:
+  
+---
 
 [RE Bridge ｜ 日本初！バーチャルPPA特化型オークションサイト REBridge](https://www.digitalgrid.com/re-bridge/)
 [太陽光発電のPPAモデルとは？仕組みやメリットについて | グリラボ](https://gurilabo.igrid.co.jp/article/1816/)

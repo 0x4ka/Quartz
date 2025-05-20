@@ -1,3 +1,9 @@
+---
+title: "Following ERC-6900 discussions"
+date: "1970-01-20T11:51:54.017Z"
+tags:
+  
+---
 
 #WalletContract #wallet
 source: [ERC-6900: Modular Smart Contract Accounts and Plugins - EIPs - Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/erc-6900-modular-smart-contract-accounts-and-plugins/13885)

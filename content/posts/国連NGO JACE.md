@@ -1,3 +1,9 @@
+---
+title: "国連NGO JACE"
+date: "1970-01-20T18:19:34.951Z"
+tags:
+  
+---
 
 [https://jacengos.org/about-us](https://jacengos.org/about-us)
 - 宇都宮の駅前にオフィスができるらしい

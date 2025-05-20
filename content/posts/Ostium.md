@@ -1,3 +1,9 @@
+---
+title: "Ostium"
+date: "1970-01-20T10:04:56.648Z"
+tags:
+  
+---
 
 [Ostium](https://www.ostium.io/)
 実世界の資産をレバレッジ取引するためのオンチェーン・スーパーアプリ

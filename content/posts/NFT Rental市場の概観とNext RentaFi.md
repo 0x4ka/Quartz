@@ -1,3 +1,9 @@
+---
+title: "NFT Rental市場の概観とNext RentaFi"
+date: "1970-01-20T11:00:51.979Z"
+tags:
+  
+---
 
 - Rental protocolのポジショニング
     - NFTFi

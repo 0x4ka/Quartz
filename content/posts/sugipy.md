@@ -1,3 +1,9 @@
+---
+title: "sugipy"
+date: "1970-01-20T19:08:01.283Z"
+tags:
+  
+---
 
 
 ![image](https://lh3.googleusercontent.com/a/ACg8ocI4UaFaYtP1Q9y8CY1-tZCDwFUgDjLHT_8SLSqL17ekARuE=s96-c#.png)

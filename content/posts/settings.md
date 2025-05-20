@@ -1,3 +1,9 @@
+---
+title: "settings"
+date: "1970-01-20T23:13:01.494Z"
+tags:
+  
+---
 
 source: [/0x4ka-extensions](https://scrapbox.io/0x4ka-extensions)
 

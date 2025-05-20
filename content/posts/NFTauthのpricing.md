@@ -1,3 +1,9 @@
+---
+title: "NFTauthのpricing"
+date: "1970-01-20T11:43:01.243Z"
+tags:
+  
+---
 
 ![image](https://scrapbox.io/files/644e30f75bea7e001b358762.png)
 

@@ -1,3 +1,9 @@
+---
+title: "NFTs and A Thousan True Fans"
+date: "1970-01-20T18:10:28.547Z"
+tags:
+  
+---
 
 [cdixon | NFTs and A Thousand True Fans](https://cdixon.org/2021/02/27/NFTs-and-a-thousand-true-fans)
 

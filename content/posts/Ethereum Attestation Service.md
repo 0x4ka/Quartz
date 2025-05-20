@@ -1,3 +1,9 @@
+---
+title: "Ethereum Attestation Service"
+date: "1970-01-20T19:16:41.420Z"
+tags:
+  
+---
 
 #コミュニティ #onlab
 

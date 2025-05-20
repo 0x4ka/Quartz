@@ -1,3 +1,9 @@
+---
+title: "slwatch.net/external/moneyfarm"
+date: "1970-01-21T04:00:53.318Z"
+tags:
+  
+---
 
 [https://slwatch.net/external/moneyfarm](https://slwatch.net/external/moneyfarm)
 

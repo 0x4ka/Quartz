@@ -1,3 +1,9 @@
+---
+title: "aboutme"
+date: "1970-01-20T13:04:01.396Z"
+tags:
+  
+---
 
 ![image](https://scrapbox.io/files/63c79bef367aef001e0540d1.png)
 

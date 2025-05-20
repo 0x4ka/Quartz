@@ -1,3 +1,9 @@
+---
+title: "The Most Important Scarce Resource is Legitimacy"
+date: "1970-01-20T11:16:28.307Z"
+tags:
+  
+---
 
 #思想
 source: [The Most Important Scarce Resource is Legitimacy](https://vitalik.ca/general/2021/03/23/legitimacy.html)

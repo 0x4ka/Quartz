@@ -1,3 +1,9 @@
+---
+title: "Safe Wallet Contract のデプロイ"
+date: "1970-01-20T11:23:07.287Z"
+tags:
+  
+---
 
 #Wallet #WalletContract
 

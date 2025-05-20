@@ -1,3 +1,9 @@
+---
+title: "wip_Insrt Finance"
+date: "1970-01-20T11:12:50.003Z"
+tags:
+  
+---
 
 #NFTFi
 ![image](https://scrapbox.io/files/6407f19446d631001b9bdc4c.png)

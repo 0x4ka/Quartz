@@ -1,3 +1,9 @@
+---
+title: "Blur の BLENDER の Unlock Ownership の実装について"
+date: "1970-01-20T11:48:59.340Z"
+tags:
+  
+---
 
 - Blur.io が新たに発表した NFT Lending protocol の Blender は BNPL 機能を持っている
     - BNPLでは本体価格の2割で購入することができ、残りの8割はローンで購入している状況らしい

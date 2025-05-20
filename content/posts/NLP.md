@@ -1,3 +1,9 @@
+---
+title: "NLP"
+date: "1970-01-20T10:21:11.739Z"
+tags:
+  
+---
 
 [https://twitter.com/tmaehara/status/1635579715141484545?s=46&t=ldkrKw95r11wN4xjB7L-2A](https://twitter.com/tmaehara/status/1635579715141484545?s=46&t=ldkrKw95r11wN4xjB7L-2A)
 

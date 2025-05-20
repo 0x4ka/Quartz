@@ -1,3 +1,9 @@
+---
+title: "EOAをmultichainIDとして扱う"
+date: "1970-01-20T19:29:53.138Z"
+tags:
+  
+---
 
 #MultichainID #WalletContract #wallet
 

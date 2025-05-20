@@ -1,3 +1,9 @@
+---
+title: "Pinky Protocol"
+date: "1970-01-20T11:50:18.009Z"
+tags:
+  
+---
 
 #wallet
 source: [https://ethglobal.com/showcase/pinky-protocol-vsos2](https://ethglobal.com/showcase/pinky-protocol-vsos2)

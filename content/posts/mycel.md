@@ -1,3 +1,9 @@
+---
+title: "mycel"
+date: "1970-01-20T11:53:38.738Z"
+tags:
+  
+---
 
 #ENS #ID
 source: [https://docs.mycel.domains/overview](https://docs.mycel.domains/overview)

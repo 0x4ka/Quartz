@@ -1,3 +1,9 @@
+---
+title: "Partial Common Ownership"
+date: "1970-01-20T11:58:10.602Z"
+tags:
+  
+---
 
 #Gradual
 

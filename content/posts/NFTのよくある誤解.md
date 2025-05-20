@@ -1,3 +1,9 @@
+---
+title: "NFTのよくある誤解"
+date: "1970-01-20T07:55:56.989Z"
+tags:
+  
+---
 
 [【2022年3月版】NFT勉強会資料@nobumei 5月ver](https://nobumei.notion.site/2022-3-NFT-nobumei-5-ver-338e66621e7e496f8ed801daaf60383f#:~:text=ってことです%E3%80%82-,■NFTのよくある誤解,-冒頭でbeeple)
 

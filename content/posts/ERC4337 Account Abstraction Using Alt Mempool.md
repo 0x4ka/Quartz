@@ -1,3 +1,9 @@
+---
+title: "ERC4337 Account Abstraction Using Alt Mempool"
+date: "1970-01-20T11:37:20.995Z"
+tags:
+  
+---
 
 [[Vitalik Buterin]] [https://twitter.com/vbuterin](https://twitter.com/vbuterin)
 [[Yoav Weiss]] [https://twitter.com/yoavw](https://twitter.com/yoavw)

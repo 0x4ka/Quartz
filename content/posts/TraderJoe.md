@@ -1,3 +1,9 @@
+---
+title: "TraderJoe"
+date: "1970-01-20T12:14:42.856Z"
+tags:
+  
+---
 
 - treader joe の独自トークンの40%はロックされている
     - sJOE

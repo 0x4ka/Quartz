@@ -1,3 +1,9 @@
+---
+title: "Wallet market perspective (viewpoint)"
+date: "1970-01-20T11:24:51.785Z"
+tags:
+  
+---
 
 #wallet
 

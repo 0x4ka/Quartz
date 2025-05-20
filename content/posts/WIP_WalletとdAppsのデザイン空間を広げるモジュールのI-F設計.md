@@ -1,3 +1,9 @@
+---
+title: "WIP_WalletとdAppsのデザイン空間を広げるモジュールのI/F設計"
+date: "1970-01-20T12:38:21.601Z"
+tags:
+  
+---
 
 #wallet #WalletContract
 

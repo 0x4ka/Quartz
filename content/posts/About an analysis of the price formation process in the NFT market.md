@@ -1,3 +1,9 @@
+---
+title: "About an analysis of the price formation process in the NFT market"
+date: "1970-01-20T11:21:57.674Z"
+tags:
+  
+---
 
 [PERPLEXITY](https://www.perplexity.ai/search/230e1b10-1ca4-4d26-b697-fabfa24a95f6?s=u)
 

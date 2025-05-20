@@ -1,3 +1,9 @@
+---
+title: "memo"
+date: "1970-01-20T11:24:07.201Z"
+tags:
+  
+---
 
 wallet meets dappは手段
 ビジョンはNFTの最適分配

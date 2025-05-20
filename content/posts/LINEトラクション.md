@@ -1,3 +1,9 @@
+---
+title: "LINEトラクション"
+date: "1970-01-20T19:33:49.986Z"
+tags:
+  
+---
 
 ### 日本のLINE@ : 300万件突破（うち認証済みアカウント数は37万件を超える）
 ref: [https://linecorp.com/ja/pr/news/ja/2019/2574](https://linecorp.com/ja/pr/news/ja/2019/2574)

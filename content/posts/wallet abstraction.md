@@ -1,3 +1,9 @@
+---
+title: "wallet abstraction"
+date: "1970-01-20T19:31:05.964Z"
+tags:
+  
+---
 
 #wallet
 source: [Wallet Abstraction: Google OAuth x Lit PKP](https://spark.litprotocol.com/wallet-abstraction-with-google-oauth/)

@@ -1,3 +1,9 @@
+---
+title: "ETHGlobalTokyo: "StreamNFT" a Contract Wallet for NFTFi (Rental)"
+date: "1970-01-20T11:33:15.472Z"
+tags:
+  
+---
 
 #wallet #WalletContract #ETHGlobalTokyo
 

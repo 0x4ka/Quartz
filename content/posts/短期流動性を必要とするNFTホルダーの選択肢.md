@@ -1,3 +1,9 @@
+---
+title: "短期流動性を必要とするNFTホルダーの選択肢"
+date: "1970-01-20T11:00:02.449Z"
+tags:
+  
+---
 
 #NFTFi #NFT
 ![image](https://scrapbox.io/files/6407eaae4920c1001bd38415.png)

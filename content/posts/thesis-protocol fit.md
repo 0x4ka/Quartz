@@ -1,3 +1,9 @@
+---
+title: "thesis/protocol fit"
+date: "1970-01-20T10:59:57.079Z"
+tags:
+  
+---
 
 > [@thedefiedge](https://twitter.com/thedefiedge/status/1645420323909820416?s=20): Understanding narratives is the key to Crypto success.
 > But it’s NOT just about being early.

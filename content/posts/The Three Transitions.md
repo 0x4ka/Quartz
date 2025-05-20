@@ -1,3 +1,9 @@
+---
+title: "The Three Transitions"
+date: "1970-01-20T13:08:07.234Z"
+tags:
+  
+---
 
 source: [The Three Transitions](https://vitalik.ca/general/2023/06/09/three_transitions.html)
 

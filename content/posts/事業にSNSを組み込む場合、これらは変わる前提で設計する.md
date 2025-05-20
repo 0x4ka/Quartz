@@ -1,3 +1,9 @@
+---
+title: "事業にSNSを組み込む場合、これらは変わる前提で設計する"
+date: "1970-01-20T19:31:05.954Z"
+tags:
+  
+---
 
 #WalletContract #web3auth
 

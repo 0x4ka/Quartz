@@ -1,3 +1,9 @@
+---
+title: "NFT所有の表明自体にインセンティブを与えるべき"
+date: "1970-01-20T09:00:27.574Z"
+tags:
+  
+---
 
 > [@hideyukiaka](https://twitter.com/hideyukiaka/status/1615357381420150785?s=20&t=JlIaJOHofh6PbpioM_4Afg): NFTの所有を表明すること自体、
 > コミュニティの認知拡大に貢献してるので

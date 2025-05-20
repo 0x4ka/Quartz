@@ -1,3 +1,9 @@
+---
+title: "NFT Rental Market の類型"
+date: "1970-01-20T12:01:00.904Z"
+tags:
+  
+---
 
 #NFTFi
 

@@ -1,3 +1,9 @@
+---
+title: "Why we need a Gradual Ownership?"
+date: "1970-01-20T12:55:01.572Z"
+tags:
+  
+---
 
 #Gradual #WIP
 

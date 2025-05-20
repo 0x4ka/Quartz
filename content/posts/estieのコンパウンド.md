@@ -1,3 +1,9 @@
+---
+title: "estieのコンパウンド"
+date: "1970-01-20T20:31:16.642Z"
+tags:
+  
+---
 
 [コンパウンドスタートアップに潜む矛盾と困難、その先に広がる世界 - estie inside blog](https://www.estie.jp/blog/entry/2023/11/10/115804)
 [6年間でゼロからデカコーンへ！ココがスゴいよ、Rippling！](https://blog.allstarsaas.com/posts/compound-rippling)

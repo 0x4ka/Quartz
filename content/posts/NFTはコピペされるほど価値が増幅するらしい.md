@@ -1,3 +1,9 @@
+---
+title: "NFTはコピペされるほど価値が増幅するらしい"
+date: "1970-01-20T19:30:58.108Z"
+tags:
+  
+---
 
 ref: [[Tokenized Viral]]
 

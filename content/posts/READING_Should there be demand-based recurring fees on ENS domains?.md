@@ -1,3 +1,9 @@
+---
+title: "READING_Should there be demand-based recurring fees on ENS domains?"
+date: "1970-01-20T12:00:46.135Z"
+tags:
+  
+---
 
 #Gradual #PCO
 source: [https://vitalik.ca/general/2022/09/09/ens.html](https://vitalik.ca/general/2022/09/09/ens.html)

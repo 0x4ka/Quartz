@@ -1,3 +1,9 @@
+---
+title: "Gradual Dutch Auctions"
+date: "1970-01-20T18:14:33.527Z"
+tags:
+  
+---
 
 source: [Gradual Dutch Auctions - Paradigm](https://www.paradigm.xyz/2022/04/gda)
 

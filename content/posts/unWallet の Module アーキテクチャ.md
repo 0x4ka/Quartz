@@ -1,3 +1,9 @@
+---
+title: "unWallet の Module アーキテクチャ"
+date: "1970-01-20T11:40:12.591Z"
+tags:
+  
+---
 
 #WalletContract #wallet
 [https://sivira.co/assets/pdf/unWallet_Contract_Design.pdf](https://sivira.co/assets/pdf/unWallet_Contract_Design.pdf)

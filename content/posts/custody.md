@@ -1,3 +1,9 @@
+---
+title: "custody"
+date: "1970-01-20T12:07:44.807Z"
+tags:
+  
+---
 
 - Safe basis
     - deploy for each users

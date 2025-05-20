@@ -1,3 +1,9 @@
+---
+title: "soma"
+date: "1970-01-20T11:40:00.137Z"
+tags:
+  
+---
 
 
 ![image](https://scrapbox.io/files/6459b306b1b3e61f4b7a5741.jpg)
