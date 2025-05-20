@@ -1,10 +1,8 @@
 ---
 title: "Argent"
 date: 2023-05-07T05:36:09.000+09:00
-tags: 
+tags: #wallet #WalletContract
 ---
-
-#wallet #WalletContract
 
 [/taxio/Argent](https://scrapbox.io/taxio/Argent)
 [» What Are Smart Contract Wallets, and How Can They Benefit DeFi Users?](https://blog.makerdao.com/what-are-smart-contract-wallets-and-how-can-they-benefit-defi-users/)
