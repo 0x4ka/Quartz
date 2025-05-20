@@ -1,11 +1,10 @@
 ---
-title: "NFT活用事例"
+title: "NFTの実践的活用事例とユースケース"
 date: 2024-09-01T09:07:35.000+09:00
-tags: 
+tags: #NFT #ブロックチェーン #カーボンクレジット #トークン化 #実証実験
 ---
 
 #事例
-
 
 [[KINTO]]
 安全運転のスコアを記録していくNFT会員証
@@ -14,7 +13,7 @@ tags:
 [https://corp.kinto-jp.com/news/press_20240522/](https://corp.kinto-jp.com/news/press_20240522/)
 
 [[カーボンクレジット]]の取り組み
-SINRA
+[[SINRA]]
 未認証カーボンクレジットNFTを個人向けに販売し、Jクレジット認証後にクレジットをNFTへ紐づけることで、個人が法人へ売却し利確、購入した法人はカーボンオフセットに利用できる構想
 [https://note.com/sinranft/](https://note.com/sinranft/)
 SINRA運営会社はparamita
@@ -26,14 +25,24 @@ SINRA運営会社はparamita
 農業分野のカーボン・クレジット普及に向けた実証実験
 [https://www.ctc-g.co.jp/company/release/20230707-01606.html](https://www.ctc-g.co.jp/company/release/20230707-01606.html)
 
-MOSS
+[[MOSS]]
 tCO2とトークン枚数が紐づいているため、より流動性が向上し取引の活性化を期待している
 [https://mco2token.moss.earth/](https://mco2token.moss.earth/)
 
-TradeWaltz
+[[TradeWaltz]]
 [https://www.neweconomy.jp/posts/131394](https://www.neweconomy.jp/posts/131394)
 [https://www.tradewaltz.com/](https://www.tradewaltz.com/)
 
-Courtyard
+[[Courtyard]]
 BRINKS社の金庫・運輸サービスを利用して現物を保管→NFT化し現物担保型先物としてNFTマーケットプレイス上で取引できることが特徴
 [https://courtyard.io/marketplace?Category=Wrestling&sortBy=listingDate%3Adesc&itemsPerPage=24&page=1](https://courtyard.io/marketplace?Category=Wrestling&sortBy=listingDate%3Adesc&itemsPerPage=24&page=1)
+
+---
+## 追加リンク一覧
+- [[KINTO]] … トヨタのNFT会員証サービス
+- [[カーボンクレジット]] … 環境価値のトークン化
+- [[SINRA]] … カーボンクレジットNFTの実証実験
+- [[MOSS]] … カーボンクレジットトークン化プラットフォーム
+- [[TradeWaltz]] … 貿易取引のブロックチェーン化
+- [[Courtyard]] … 現物担保型NFTマーケットプレイス
+- [[トークン化]] … 資産のデジタル化手法
