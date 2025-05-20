@@ -1,5 +1,5 @@
 ---
-title: "Wallet market perspective (viewpoint)"
+title: 'Wallet market perspective (viewpoint)'
 date: 2023-04-28T14:23:05.000+09:00
 tags: 
 ---

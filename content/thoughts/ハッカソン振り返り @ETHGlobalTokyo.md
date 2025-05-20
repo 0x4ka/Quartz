@@ -1,5 +1,5 @@
 ---
-title: "ハッカソン振り返り @ETHGlobalTokyo"
+title: 'ハッカソン振り返り @ETHGlobalTokyo'
 date: 2023-04-20T15:47:19.000+09:00
 tags: 
 ---

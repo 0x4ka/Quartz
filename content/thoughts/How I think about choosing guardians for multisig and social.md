@@ -1,5 +1,5 @@
 ---
-title: "How I think about choosing guardians for multisig and social recovery wallets"
+title: 'How I think about choosing guardians for multisig and social recovery wallets'
 date: 2023-05-09T16:42:48.000+09:00
 tags: 
 ---

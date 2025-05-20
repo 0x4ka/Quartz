@@ -1,5 +1,5 @@
 ---
-title: "slwatch.net/external/moneyfarm"
+title: 'slwatch.net/external/moneyfarm'
 date: 2025-03-20T06:48:38.000+09:00
 tags: 
 ---

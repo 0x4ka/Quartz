@@ -1,5 +1,5 @@
 ---
-title: "RentaFiは所有をゆるくする"
+title: 'RentaFiは所有をゆるくする'
 date: 2023-04-26T08:12:00.000+09:00
 tags: 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Gussan"
+title: 'Gussan'
 date: 2024-03-16T05:14:28.000+09:00
 tags: 
 ---

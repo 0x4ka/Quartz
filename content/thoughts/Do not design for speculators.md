@@ -1,5 +1,5 @@
 ---
-title: "Do not design for speculators"
+title: 'Do not design for speculators'
 date: 2023-06-22T03:38:44.000+09:00
 tags: 
 ---

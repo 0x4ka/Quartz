@@ -1,5 +1,5 @@
 ---
-title: "Bubblemaps"
+title: 'Bubblemaps'
 date: 2023-04-20T15:46:45.000+09:00
 tags: 
 ---

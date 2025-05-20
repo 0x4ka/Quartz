@@ -1,5 +1,5 @@
 ---
-title: "Why we need a Gradual Ownership?"
+title: 'Why we need a Gradual Ownership?'
 date: 2023-06-30T05:06:12.000+09:00
 tags: 
 ---

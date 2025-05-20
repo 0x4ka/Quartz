@@ -1,5 +1,5 @@
 ---
-title: "Safe ecosystem"
+title: 'Safe ecosystem'
 date: 2023-05-07T09:26:27.000+09:00
 tags: 
 ---

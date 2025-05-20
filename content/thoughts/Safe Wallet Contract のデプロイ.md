@@ -1,5 +1,5 @@
 ---
-title: "Safe Wallet Contract のデプロイ"
+title: 'Safe Wallet Contract のデプロイ'
 date: 2023-04-27T09:21:27.000+09:00
 tags: 
 ---

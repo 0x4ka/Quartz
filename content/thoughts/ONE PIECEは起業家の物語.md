@@ -1,5 +1,5 @@
 ---
-title: "ONE PIECEは起業家の物語"
+title: 'ONE PIECEは起業家の物語'
 date: 2024-03-22T13:49:47.000+09:00
 tags: 
 ---

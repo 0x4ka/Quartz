@@ -1,5 +1,5 @@
 ---
-title: "A structure inside and outside the company"
+title: 'A structure inside and outside the company'
 date: 2024-02-06T15:22:56.000+09:00
 tags: 
 ---

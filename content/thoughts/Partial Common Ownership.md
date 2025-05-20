@@ -1,5 +1,5 @@
 ---
-title: "Partial Common Ownership"
+title: 'Partial Common Ownership'
 date: 2023-05-21T17:36:42.000+09:00
 tags: 
 ---

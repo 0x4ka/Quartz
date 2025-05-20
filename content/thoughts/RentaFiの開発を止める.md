@@ -1,5 +1,5 @@
 ---
-title: "RentaFiの開発を止める"
+title: 'RentaFiの開発を止める'
 date: 2023-05-04T13:53:21.000+09:00
 tags: 
 ---

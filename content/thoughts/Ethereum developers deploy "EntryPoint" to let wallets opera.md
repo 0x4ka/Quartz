@@ -1,5 +1,5 @@
 ---
-title: "Ethereum developers deploy "EntryPoint" to let wallets operate as smart contracts"
+title: 'Ethereum developers deploy "EntryPoint" to let wallets operate as smart contracts'
 date: 2023-04-29T16:25:05.000+09:00
 tags: 
 ---

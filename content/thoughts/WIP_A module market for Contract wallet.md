@@ -1,5 +1,5 @@
 ---
-title: "WIP_A module market for Contract wallet"
+title: 'WIP_A module market for Contract wallet'
 date: 2024-02-10T09:55:49.000+09:00
 tags: 
 ---

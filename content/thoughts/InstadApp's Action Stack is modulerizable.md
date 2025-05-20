@@ -1,5 +1,5 @@
 ---
-title: "InstadApp's Action Stack is modulerizable"
+title: 'InstadApp's Action Stack is modulerizable'
 date: 2023-05-07T14:42:53.000+09:00
 tags: 
 ---

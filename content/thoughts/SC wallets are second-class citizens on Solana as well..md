@@ -1,5 +1,5 @@
 ---
-title: "SC wallets are second-class citizens on Solana as well."
+title: 'SC wallets are second-class citizens on Solana as well.'
 date: 2023-05-04T10:31:39.000+09:00
 tags: 
 ---

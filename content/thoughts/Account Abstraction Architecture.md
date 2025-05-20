@@ -1,5 +1,5 @@
 ---
-title: "Account Abstraction Architecture"
+title: 'Account Abstraction Architecture'
 date: 2023-05-04T17:40:01.000+09:00
 tags: 
 ---

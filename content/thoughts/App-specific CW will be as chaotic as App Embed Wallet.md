@@ -1,5 +1,5 @@
 ---
-title: "App-specific CW will be as chaotic as App Embed Wallet"
+title: 'App-specific CW will be as chaotic as App Embed Wallet'
 date: 2024-03-30T17:06:49.000+09:00
 tags: 
 ---

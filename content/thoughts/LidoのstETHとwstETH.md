@@ -1,5 +1,5 @@
 ---
-title: "LidoのstETHとwstETH"
+title: 'LidoのstETHとwstETH'
 date: 2023-06-05T09:51:39.000+09:00
 tags: 
 ---

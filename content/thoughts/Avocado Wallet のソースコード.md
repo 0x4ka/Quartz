@@ -1,5 +1,5 @@
 ---
-title: "Avocado Wallet のソースコード"
+title: 'Avocado Wallet のソースコード'
 date: 2023-05-07T06:56:29.000+09:00
 tags: 
 ---

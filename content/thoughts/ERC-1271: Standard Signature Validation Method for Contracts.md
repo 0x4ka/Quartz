@@ -1,5 +1,5 @@
 ---
-title: "ERC-1271: Standard Signature Validation Method for Contracts"
+title: 'ERC-1271: Standard Signature Validation Method for Contracts'
 date: 2023-05-05T15:58:46.000+09:00
 tags: 
 ---

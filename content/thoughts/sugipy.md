@@ -1,5 +1,5 @@
 ---
-title: "sugipy"
+title: 'sugipy'
 date: 2024-03-15T05:41:23.000+09:00
 tags: 
 ---

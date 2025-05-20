@@ -1,5 +1,5 @@
 ---
-title: "Tokenized Viral"
+title: 'Tokenized Viral'
 date: 2024-03-31T06:42:37.000+09:00
 tags: 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "A network analysis of the non-fungible token (NFT) market: structural characteristics, evolution, and interactions | Applied Network Science"
+title: 'A network analysis of the non-fungible token (NFT) market: structural characteristics, evolution, and interactions | Applied Network Science'
 date: 2024-04-04T04:23:21.000+09:00
 tags: 
 ---

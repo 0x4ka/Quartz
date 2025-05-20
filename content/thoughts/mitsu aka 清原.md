@@ -1,5 +1,5 @@
 ---
-title: "mitsu aka 清原"
+title: 'mitsu aka 清原'
 date: 2024-03-14T03:57:09.000+09:00
 tags: 
 ---

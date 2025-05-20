@@ -1,5 +1,5 @@
 ---
-title: "Property Is Only Another Name For Monopoly"
+title: 'Property Is Only Another Name For Monopoly'
 date: 2023-06-22T03:37:30.000+09:00
 tags: 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "NFTFi Tokyo"
+title: 'NFTFi Tokyo'
 date: 2023-04-27T10:43:32.000+09:00
 tags: 
 ---

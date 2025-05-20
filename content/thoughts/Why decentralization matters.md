@@ -1,5 +1,5 @@
 ---
-title: "Why decentralization matters"
+title: 'Why decentralization matters'
 date: 2023-03-19T01:39:15.000+09:00
 tags: 
 ---

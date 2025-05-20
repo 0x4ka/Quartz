@@ -1,5 +1,5 @@
 ---
-title: "WIP_WalletとdAppsのデザイン空間を広げるモジュールのI/F設計"
+title: 'WIP_WalletとdAppsのデザイン空間を広げるモジュールのI/F設計'
 date: 2023-06-18T15:20:01.000+09:00
 tags: 
 ---

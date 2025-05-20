@@ -1,5 +1,5 @@
 ---
-title: "NLP"
+title: 'NLP'
 date: 2023-03-15T09:15:39.000+09:00
 tags: 
 ---

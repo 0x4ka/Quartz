@@ -1,5 +1,5 @@
 ---
-title: "settings"
+title: 'settings'
 date: 2024-09-01T09:04:54.000+09:00
 tags: 
 ---

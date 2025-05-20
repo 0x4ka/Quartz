@@ -1,5 +1,5 @@
 ---
-title: "Dapper投資先"
+title: 'Dapper投資先'
 date: 2023-04-18T07:38:18.000+09:00
 tags: 
 ---

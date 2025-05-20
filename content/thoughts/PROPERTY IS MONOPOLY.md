@@ -1,5 +1,5 @@
 ---
-title: "PROPERTY IS MONOPOLY"
+title: 'PROPERTY IS MONOPOLY'
 date: 2023-06-22T03:39:22.000+09:00
 tags: 
 ---

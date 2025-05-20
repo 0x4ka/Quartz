@@ -1,5 +1,5 @@
 ---
-title: "NFT Rental市場の概観とNext RentaFi"
+title: 'NFT Rental市場の概観とNext RentaFi'
 date: 2023-04-11T22:26:19.000+09:00
 tags: 
 ---

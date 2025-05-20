@@ -1,5 +1,5 @@
 ---
-title: "Liquity"
+title: 'Liquity'
 date: 2023-06-02T07:57:05.000+09:00
 tags: 
 ---

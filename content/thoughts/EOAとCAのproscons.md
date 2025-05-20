@@ -1,5 +1,5 @@
 ---
-title: "EOAとCAのproscons"
+title: 'EOAとCAのproscons'
 date: 2024-03-30T10:51:00.000+09:00
 tags: 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "NFTauthのpricing"
+title: 'NFTauthのpricing'
 date: 2023-05-11T05:00:43.000+09:00
 tags: 
 ---

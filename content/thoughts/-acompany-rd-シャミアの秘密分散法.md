@@ -1,5 +1,5 @@
 ---
-title: "/acompany-rd/シャミアの秘密分散法"
+title: '/acompany-rd/シャミアの秘密分散法'
 date: 2024-05-12T13:58:17.000+09:00
 tags: 
 ---

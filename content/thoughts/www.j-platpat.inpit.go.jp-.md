@@ -1,5 +1,5 @@
 ---
-title: "www.j-platpat.inpit.go.jp/"
+title: 'www.j-platpat.inpit.go.jp/'
 date: 2023-05-11T01:26:17.000+09:00
 tags: 
 ---
