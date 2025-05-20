@@ -1,7 +1,8 @@
 ---
-title: "estieのコンパウンド"
+title: estieのコンパウンド
 date: 2024-05-12T01:17:22.000+09:00
-tags: 
+tags:
+  - コンパウンド
 ---
 
 [コンパウンドスタートアップに潜む矛盾と困難、その先に広がる世界 - estie inside blog](https://www.estie.jp/blog/entry/2023/11/10/115804)
