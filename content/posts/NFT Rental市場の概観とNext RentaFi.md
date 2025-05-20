@@ -1,0 +1,56 @@
+
+- Rental protocolのポジショニング
+    - NFTFi
+        - Lending
+            - NFTfi.com, Pine, Arcade...
+        - Rental
+            - RentaFi, reNFT, double, stash, Loot Rush
+        - BNPL
+            - Voyage
+        - Fractionalize
+            - fractional.art
+        - Derivative (Perpetual)
+            - NFTPerp...
+        - AMM
+            - yomi...
+- レンタルのモチベーション
+    - 使用していないNFTを貸し出すことで受動的な利益を得る
+    - 所有するリスクを負うことなくホルダーメリットを体験する
+    - NFTが価値を失った場合のダウンサイドプロテクション
+        - source: fyi. [[短期流動性を必要とするNFTホルダーの選択肢]]
+- 現在のレンタル市場
+    - RentaFi V1
+- レンタルを実現する方法論
+    - 担保型
+        - reNFT v1
+    - registry（original API）
+        - reNFT v2
+    - new token standard
+        - ERC-4907（double protocol）
+        - the others
+    - wrap
+        - Non-Upgradeable token をERC4907に準拠したトークンでWrap
+- それぞれが抱える問題点
+    - 新たに発行される必要があるトークンが求められる
+    - Publisher に技術対応を要求する
+        - 特にパーミッションレスに利用できないためネットワーク効果を期待しにくい
+    - Utility NFTの普及（😉）
+    - more specific
+        - 貸してる間のホルダー権限を行使できない
+- 理想的な解決策
+    - 理想は、NFT Holder がPublisher の認可を得る必要なしに貸し借りできる状態
+        - Contract Wallet で実現する
+- Next Generation Wallet for NFTFi『RentaFi Wallet』
+    - Available on this summer
+    - dAppsとのコンポーザビリティを最大限に活用したContract Wallet
+    - NFTを所有しているだけで利回り収益を獲得し得る次世代ウォレット
+        - 保有しているNFTをRentaFiでリスト可能
+            - 一度リストしておけば、貸出⇄返却⇄収益が必要に応じて自動で行われる
+- RentaFi Wallet の利点
+    - ウォレットに入れておくだけで利回り収益を獲得し得る
+        - Rental, Lending and strategic modulers への拡張
+    - 無担保かつ全てのNFTを貸し借り可能
+    - Publisher に技術対応を要求しないため、マーケットニーズに合わせて拡大可能
+    - ready for AA
+    - future
+        - On ramp, gas abst., network abst. and so on.
