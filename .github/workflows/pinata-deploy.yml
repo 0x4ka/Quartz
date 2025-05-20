@@ -1,5 +1,6 @@
 name: Deploy to Pinata via SDK
 
+"
 on:
   push:
     branches:
@@ -28,3 +29,4 @@ jobs:
         run: node .github/scripts/uploadFolder.mjs
         env:
           PINATA_JWT: ${{ secrets.PINATA_JWT }}
+"
