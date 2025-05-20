@@ -1,5 +1,5 @@
 ---
-title: 'Gas Abstraction'
+title: "Gas Abstraction"
 date: 2023-04-20T15:42:05.000+09:00
 tags: 
 ---

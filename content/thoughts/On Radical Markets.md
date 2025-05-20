@@ -1,5 +1,5 @@
 ---
-title: 'On Radical Markets'
+title: "On Radical Markets"
 date: 2023-06-22T03:38:15.000+09:00
 tags: 
 ---

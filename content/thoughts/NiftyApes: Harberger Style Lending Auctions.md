@@ -1,5 +1,5 @@
 ---
-title: 'NiftyApes: Harberger Style Lending Auctions'
+title: "NiftyApes: Harberger Style Lending Auctions"
 date: 2023-05-28T01:28:42.000+09:00
 tags: 
 ---

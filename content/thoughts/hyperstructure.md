@@ -1,5 +1,5 @@
 ---
-title: 'hyperstructure'
+title: "hyperstructure"
 date: 2023-06-18T03:12:18.000+09:00
 tags: 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'building dapp? consider AA implications'
+title: "building dapp? consider AA implications"
 date: 2023-05-07T06:00:44.000+09:00
 tags: 
 ---

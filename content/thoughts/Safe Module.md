@@ -1,5 +1,5 @@
 ---
-title: 'Safe Module'
+title: "Safe Module"
 date: 2023-04-30T10:05:42.000+09:00
 tags: 
 ---

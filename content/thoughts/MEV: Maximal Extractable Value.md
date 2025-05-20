@@ -1,5 +1,5 @@
 ---
-title: 'MEV: Maximal Extractable Value'
+title: "MEV: Maximal Extractable Value"
 date: 2023-03-15T09:12:58.000+09:00
 tags: 
 ---

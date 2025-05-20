@@ -1,5 +1,5 @@
 ---
-title: 'Following ERC-6900 discussions'
+title: "Following ERC-6900 discussions"
 date: 2023-05-17T09:00:17.000+09:00
 tags: 
 ---

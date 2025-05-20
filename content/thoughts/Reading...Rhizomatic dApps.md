@@ -1,5 +1,5 @@
 ---
-title: 'Reading...Rhizomatic dApps'
+title: "Reading...Rhizomatic dApps"
 date: 2023-04-25T16:10:21.000+09:00
 tags: 
 ---

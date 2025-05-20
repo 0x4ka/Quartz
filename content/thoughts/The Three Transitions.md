@@ -1,5 +1,5 @@
 ---
-title: 'The Three Transitions'
+title: "The Three Transitions"
 date: 2023-07-09T07:20:34.000+09:00
 tags: 
 ---

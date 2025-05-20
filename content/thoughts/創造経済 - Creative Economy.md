@@ -1,5 +1,5 @@
 ---
-title: '創造経済 - Creative Economy'
+title: "創造経済 - Creative Economy"
 date: 2023-04-22T17:54:20.000+09:00
 tags: 
 ---

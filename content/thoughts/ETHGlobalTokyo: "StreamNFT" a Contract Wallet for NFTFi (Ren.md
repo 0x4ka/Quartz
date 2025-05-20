@@ -1,5 +1,5 @@
 ---
-title: 'ETHGlobalTokyo: "StreamNFT" a Contract Wallet for NFTFi (Rental)'
+title: "ETHGlobalTokyo: 'StreamNFT' a Contract Wallet for NFTFi (Rental)"
 date: 2023-05-04T10:17:52.000+09:00
 tags: 
 ---

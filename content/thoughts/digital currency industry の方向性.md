@@ -1,5 +1,5 @@
 ---
-title: 'digital currency industry の方向性'
+title: "digital currency industry の方向性"
 date: 2023-02-25T14:37:52.000+09:00
 tags: 
 ---

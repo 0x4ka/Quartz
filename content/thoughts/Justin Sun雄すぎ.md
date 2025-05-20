@@ -1,5 +1,5 @@
 ---
-title: 'Justin Sun雄すぎ'
+title: "Justin Sun雄すぎ"
 date: 2023-04-10T12:55:58.000+09:00
 tags: 
 ---

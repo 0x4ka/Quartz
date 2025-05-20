@@ -1,5 +1,5 @@
 ---
-title: 'CAGR'
+title: "CAGR"
 date: 2023-03-19T08:59:02.000+09:00
 tags: 
 ---

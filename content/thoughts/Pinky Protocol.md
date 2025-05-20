@@ -1,5 +1,5 @@
 ---
-title: 'Pinky Protocol'
+title: "Pinky Protocol"
 date: 2023-05-16T06:20:09.000+09:00
 tags: 
 ---

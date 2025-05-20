@@ -1,5 +1,5 @@
 ---
-title: 'Lore (prev. Prysm) のウォレットについて'
+title: "Lore (prev. Prysm) のウォレットについて"
 date: 2023-05-14T17:09:36.000+09:00
 tags: 
 ---

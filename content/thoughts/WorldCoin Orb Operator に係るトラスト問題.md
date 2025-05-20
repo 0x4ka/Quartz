@@ -1,5 +1,5 @@
 ---
-title: 'WorldCoin Orb Operator に係るトラスト問題'
+title: "WorldCoin Orb Operator に係るトラスト問題"
 date: 2023-04-22T05:10:24.000+09:00
 tags: 
 ---

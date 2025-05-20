@@ -1,5 +1,5 @@
 ---
-title: 'ドメインに関するテーゼ「Zooko's triangle」'
+title: "ドメインに関するテーゼ「Zooko's triangle」"
 date: 2024-03-14T03:56:35.000+09:00
 tags: 
 ---

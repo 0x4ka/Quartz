@@ -1,5 +1,5 @@
 ---
-title: 'cold call 方策'
+title: "cold call 方策"
 date: 2023-04-30T08:47:08.000+09:00
 tags: 
 ---

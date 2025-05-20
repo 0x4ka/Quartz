@@ -1,5 +1,5 @@
 ---
-title: 'Bootstrapping Web3 Networks'
+title: "Bootstrapping Web3 Networks"
 date: 2024-03-31T04:43:41.000+09:00
 tags: 
 ---

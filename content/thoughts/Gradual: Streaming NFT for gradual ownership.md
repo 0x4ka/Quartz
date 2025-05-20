@@ -1,5 +1,5 @@
 ---
-title: 'Gradual: Streaming NFT for gradual ownership'
+title: "Gradual: Streaming NFT for gradual ownership"
 date: 2023-05-30T05:45:16.000+09:00
 tags: 
 ---

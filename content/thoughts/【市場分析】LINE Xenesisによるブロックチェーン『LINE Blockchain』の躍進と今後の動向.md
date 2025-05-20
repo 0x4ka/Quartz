@@ -1,5 +1,5 @@
 ---
-title: '【市場分析】LINE Xenesisによるブロックチェーン『LINE Blockchain』の躍進と今後の動向'
+title: "【市場分析】LINE Xenesisによるブロックチェーン『LINE Blockchain』の躍進と今後の動向"
 date: 2022-12-14T17:11:32.000+09:00
 tags: 
 ---

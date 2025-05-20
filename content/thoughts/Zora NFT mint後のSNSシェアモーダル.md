@@ -1,5 +1,5 @@
 ---
-title: 'Zora NFT mint後のSNSシェアモーダル'
+title: "Zora NFT mint後のSNSシェアモーダル"
 date: 2024-03-28T01:38:13.000+09:00
 tags: 
 ---

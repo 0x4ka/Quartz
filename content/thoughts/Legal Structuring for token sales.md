@@ -1,5 +1,5 @@
 ---
-title: 'Legal Structuring for token sales'
+title: "Legal Structuring for token sales"
 date: 2024-10-05T16:29:08.000+09:00
 tags: 
 ---
