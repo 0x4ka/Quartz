@@ -1,5 +1,5 @@
 ---
-title: wip_Insrt Finance
+title: "wip_Insrt Finance"
 date: 1970-01-20T11:12:50.003Z
 tags: 
 ---

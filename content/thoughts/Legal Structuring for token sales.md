@@ -1,5 +1,5 @@
 ---
-title: Legal Structuring for token sales
+title: "Legal Structuring for token sales"
 date: 1970-01-21T00:02:25.748Z
 tags: 
 ---

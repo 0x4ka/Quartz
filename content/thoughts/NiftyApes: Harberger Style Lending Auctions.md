@@ -1,5 +1,5 @@
 ---
-title: NiftyApes: Harberger Style Lending Auctions
+title: "NiftyApes: Harberger Style Lending Auctions"
 date: 1970-01-20T12:07:17.322Z
 tags: 
 ---

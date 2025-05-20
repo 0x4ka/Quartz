@@ -1,5 +1,5 @@
 ---
-title: mooonはミント数減ってきた
+title: "mooonはミント数減ってきた"
 date: 1970-01-20T19:36:52.921Z
 tags: 
 ---

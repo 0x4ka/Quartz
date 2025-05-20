@@ -1,5 +1,5 @@
 ---
-title: Ethereum Tracing Challenges | Chainalysis Training
+title: "Ethereum Tracing Challenges | Chainalysis Training"
 date: 1970-01-20T19:31:33.106Z
 tags: 
 ---

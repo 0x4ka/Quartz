@@ -1,5 +1,5 @@
 ---
-title: wallet abstraction
+title: "wallet abstraction"
 date: 1970-01-20T19:31:05.964Z
 tags: 
 ---

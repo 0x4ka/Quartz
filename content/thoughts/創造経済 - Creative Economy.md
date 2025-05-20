@@ -1,5 +1,5 @@
 ---
-title: 創造経済 - Creative Economy
+title: "創造経済 - Creative Economy"
 date: 1970-01-20T11:16:26.060Z
 tags: 
 ---

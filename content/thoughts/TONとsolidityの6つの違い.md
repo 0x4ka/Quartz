@@ -1,5 +1,5 @@
 ---
-title: TONとsolidityの6つの違い
+title: "TONとsolidityの6つの違い"
 date: 1970-01-20T20:15:32.023Z
 tags: 
 ---

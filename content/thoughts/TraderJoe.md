@@ -1,5 +1,5 @@
 ---
-title: TraderJoe
+title: "TraderJoe"
 date: 1970-01-20T12:14:42.856Z
 tags: 
 ---

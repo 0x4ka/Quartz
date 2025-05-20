@@ -1,5 +1,5 @@
 ---
-title: NFT活用事例
+title: "NFT活用事例"
 date: 1970-01-20T23:13:01.655Z
 tags: 
 ---

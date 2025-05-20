@@ -1,5 +1,5 @@
 ---
-title: www.j-platpat.inpit.go.jp/
+title: "www.j-platpat.inpit.go.jp/"
 date: 1970-01-20T11:42:48.377Z
 tags: 
 ---

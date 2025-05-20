@@ -1,5 +1,5 @@
 ---
-title: 暇つぶしでみるスタートアップ系youtube ch
+title: "暇つぶしでみるスタートアップ系youtube ch"
 date: 1970-01-21T05:19:00.937Z
 tags: 
 ---

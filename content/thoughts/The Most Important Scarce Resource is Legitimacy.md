@@ -1,5 +1,5 @@
 ---
-title: The Most Important Scarce Resource is Legitimacy
+title: "The Most Important Scarce Resource is Legitimacy"
 date: 1970-01-20T11:16:28.307Z
 tags: 
 ---

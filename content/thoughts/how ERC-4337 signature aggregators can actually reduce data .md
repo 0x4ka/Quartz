@@ -1,5 +1,5 @@
 ---
-title: how ERC-4337 signature aggregators can actually reduce data size
+title: "how ERC-4337 signature aggregators can actually reduce data size"
 date: 1970-01-20T11:26:25.680Z
 tags: 
 ---

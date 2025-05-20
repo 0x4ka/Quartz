@@ -1,5 +1,5 @@
 ---
-title: The wallet wars - delphi digital
+title: "The wallet wars - delphi digital"
 date: 1970-01-20T13:24:21.198Z
 tags: 
 ---

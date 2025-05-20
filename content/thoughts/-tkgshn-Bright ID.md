@@ -1,5 +1,5 @@
 ---
-title: /tkgshn/Bright ID
+title: "/tkgshn/Bright ID"
 date: 1970-01-20T19:09:54.337Z
 tags: 
 ---

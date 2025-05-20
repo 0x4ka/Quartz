@@ -1,5 +1,5 @@
 ---
-title: Why decentralization matters
+title: "Why decentralization matters"
 date: 1970-01-20T10:26:29.955Z
 tags: 
 ---

@@ -1,5 +1,5 @@
 ---
-title: safe の module は権限分離を主眼としている
+title: "safe の module は権限分離を主眼としている"
 date: 1970-01-20T11:56:02.826Z
 tags: 
 ---

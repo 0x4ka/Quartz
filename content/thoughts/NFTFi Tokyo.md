@@ -1,5 +1,5 @@
 ---
-title: NFTFi Tokyo
+title: "NFTFi Tokyo"
 date: 1970-01-20T11:23:12.212Z
 tags: 
 ---

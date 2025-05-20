@@ -1,5 +1,5 @@
 ---
-title: Crypto to reach 1 billion users in 2030: BCG Report
+title: "Crypto to reach 1 billion users in 2030: BCG Report"
 date: 1970-01-20T11:41:37.741Z
 tags: 
 ---

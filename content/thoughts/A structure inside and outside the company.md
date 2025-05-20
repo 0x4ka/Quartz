@@ -1,5 +1,5 @@
 ---
-title: A structure inside and outside the company
+title: "A structure inside and outside the company"
 date: 1970-01-20T18:13:52.976Z
 tags: 
 ---

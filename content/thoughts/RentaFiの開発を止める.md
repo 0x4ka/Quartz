@@ -1,5 +1,5 @@
 ---
-title: RentaFiの開発を止める
+title: "RentaFiの開発を止める"
 date: 1970-01-20T11:33:28.401Z
 tags: 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Liquity
+title: "Liquity"
 date: 1970-01-20T12:14:52.625Z
 tags: 
 ---

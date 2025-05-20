@@ -1,5 +1,5 @@
 ---
-title: multichainIDはチェーンに依存すべきではない
+title: "multichainIDはチェーンに依存すべきではない"
 date: 1970-01-20T19:29:54.755Z
 tags: 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Farcaster - グラフ分析
+title: "Farcaster - グラフ分析"
 date: 1970-01-20T19:36:45.704Z
 tags: 
 ---

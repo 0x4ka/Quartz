@@ -1,5 +1,5 @@
 ---
-title: WIP_A module market for Contract wallet
+title: "WIP_A module market for Contract wallet"
 date: 1970-01-20T18:19:18.949Z
 tags: 
 ---

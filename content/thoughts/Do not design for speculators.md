@@ -1,5 +1,5 @@
 ---
-title: Do not design for speculators
+title: "Do not design for speculators"
 date: 1970-01-20T12:43:25.124Z
 tags: 
 ---

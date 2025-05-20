@@ -1,5 +1,5 @@
 ---
-title: Digital Grid
+title: "Digital Grid"
 date: 1970-01-20T18:19:34.185Z
 tags: 
 ---

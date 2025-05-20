@@ -1,5 +1,5 @@
 ---
-title: new text
+title: "new text"
 date: 1970-01-20T19:31:07.409Z
 tags: 
 ---

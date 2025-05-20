@@ -1,5 +1,5 @@
 ---
-title: www.lisnewsletter.com/p/multi-hit-wonders Multi-Hit Wonders: Embracing Apps With Short Shelf Life
+title: "www.lisnewsletter.com/p/multi-hit-wonders Multi-Hit Wonders: Embracing Apps With Short Shelf Life"
 date: 1970-01-20T18:12:16.039Z
 tags: 
 ---

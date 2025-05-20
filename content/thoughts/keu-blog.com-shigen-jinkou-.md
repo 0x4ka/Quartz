@@ -1,5 +1,5 @@
 ---
-title: keu-blog.com/shigen-jinkou/
+title: "keu-blog.com/shigen-jinkou/"
 date: 1970-01-20T19:14:23.665Z
 tags: 
 ---

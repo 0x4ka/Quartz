@@ -1,5 +1,5 @@
 ---
-title: EOAとCAのproscons
+title: "EOAとCAのproscons"
 date: 1970-01-20T19:29:55.860Z
 tags: 
 ---

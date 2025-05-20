@@ -1,5 +1,5 @@
 ---
-title: Using Network Graphs to Visualize Potential Fraud on Ethereum Blockchain | NVIDIA Technical Blog
+title: "Using Network Graphs to Visualize Potential Fraud on Ethereum Blockchain | NVIDIA Technical Blog"
 date: 1970-01-20T19:36:44.515Z
 tags: 
 ---

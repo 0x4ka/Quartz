@@ -1,5 +1,5 @@
 ---
-title: slwatch.net/external/moneyfarm
+title: "slwatch.net/external/moneyfarm"
 date: 1970-01-21T04:00:53.318Z
 tags: 
 ---

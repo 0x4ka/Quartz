@@ -1,5 +1,5 @@
 ---
-title: RentaFi開発について
+title: "RentaFi開発について"
 date: 1970-01-20T11:33:14.531Z
 tags: 
 ---

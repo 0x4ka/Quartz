@@ -1,5 +1,5 @@
 ---
-title: Blur の BLENDER の Unlock Ownership の実装について
+title: "Blur の BLENDER の Unlock Ownership の実装について"
 date: 1970-01-20T11:48:59.340Z
 tags: 
 ---

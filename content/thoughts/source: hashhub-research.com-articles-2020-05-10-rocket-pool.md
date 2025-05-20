@@ -1,5 +1,5 @@
 ---
-title: source: hashhub-research.com/articles/2020-05-10-rocket-pool-overview
+title: "source: hashhub-research.com/articles/2020-05-10-rocket-pool-overview"
 date: 1970-01-20T11:57:13.483Z
 tags: 
 ---

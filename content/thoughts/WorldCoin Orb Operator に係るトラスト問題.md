@@ -1,5 +1,5 @@
 ---
-title: WorldCoin Orb Operator に係るトラスト問題
+title: "WorldCoin Orb Operator に係るトラスト問題"
 date: 1970-01-20T11:15:40.224Z
 tags: 
 ---

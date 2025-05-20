@@ -1,5 +1,5 @@
 ---
-title: 既存の Contract Wallet にwrite操作を禁止するモジュールを加えても被Approvalユーザーにバイパスされ得る
+title: "既存の Contract Wallet にwrite操作を禁止するモジュールを加えても被Approvalユーザーにバイパスされ得る"
 date: 1970-01-20T12:38:21.965Z
 tags: 
 ---

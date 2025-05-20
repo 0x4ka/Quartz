@@ -1,5 +1,5 @@
 ---
-title: Network Analysis: Integrating Social Network Theory, Method, and Application with R
+title: "Network Analysis: Integrating Social Network Theory, Method, and Application with R"
 date: 1970-01-20T19:36:44.586Z
 tags: 
 ---

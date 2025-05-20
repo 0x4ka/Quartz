@@ -1,5 +1,5 @@
 ---
-title: Multi Party Computation
+title: "Multi Party Computation"
 date: 1970-01-20T07:56:59.119Z
 tags: 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Safe ecosystem
+title: "Safe ecosystem"
 date: 1970-01-20T11:37:31.587Z
 tags: 
 ---

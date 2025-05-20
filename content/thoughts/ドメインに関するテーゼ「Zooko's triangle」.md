@@ -1,5 +1,5 @@
 ---
-title: ドメインに関するテーゼ「Zooko's triangle」
+title: "ドメインに関するテーゼ「Zooko's triangle」"
 date: 1970-01-20T19:06:28.595Z
 tags: 
 ---

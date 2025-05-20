@@ -1,5 +1,5 @@
 ---
-title: Ownerless Smart Account Architecture
+title: "Ownerless Smart Account Architecture"
 date: 1970-01-20T11:47:26.333Z
 tags: 
 ---

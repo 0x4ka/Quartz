@@ -1,5 +1,5 @@
 ---
-title: Justin Sun雄すぎ
+title: "Justin Sun雄すぎ"
 date: 1970-01-20T10:58:51.358Z
 tags: 
 ---

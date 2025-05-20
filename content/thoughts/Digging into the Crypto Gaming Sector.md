@@ -1,5 +1,5 @@
 ---
-title: Digging into the Crypto Gaming Sector
+title: "Digging into the Crypto Gaming Sector"
 date: 1970-01-20T11:44:26.023Z
 tags: 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 地中にCO2を固定する技術を提供するTOWING社
+title: "地中にCO2を固定する技術を提供するTOWING社"
 date: 1970-01-20T18:19:34.617Z
 tags: 
 ---

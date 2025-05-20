@@ -1,5 +1,5 @@
 ---
-title: The Three Transitions
+title: "The Three Transitions"
 date: 1970-01-20T13:08:07.234Z
 tags: 
 ---

@@ -1,5 +1,5 @@
 ---
-title: CAGR
+title: "CAGR"
 date: 1970-01-20T10:26:56.342Z
 tags: 
 ---

@@ -1,5 +1,5 @@
 ---
-title: PROPERTY IS MONOPOLY
+title: "PROPERTY IS MONOPOLY"
 date: 1970-01-20T12:43:25.162Z
 tags: 
 ---

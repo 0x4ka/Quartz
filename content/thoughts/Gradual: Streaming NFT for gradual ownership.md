@@ -1,5 +1,5 @@
 ---
-title: Gradual: Streaming NFT for gradual ownership
+title: "Gradual: Streaming NFT for gradual ownership"
 date: 1970-01-20T12:10:25.516Z
 tags: 
 ---

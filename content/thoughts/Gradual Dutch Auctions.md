@@ -1,5 +1,5 @@
 ---
-title: Gradual Dutch Auctions
+title: "Gradual Dutch Auctions"
 date: 1970-01-20T18:14:33.527Z
 tags: 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Fungify
+title: "Fungify"
 date: 1970-01-20T10:10:43.348Z
 tags: 
 ---

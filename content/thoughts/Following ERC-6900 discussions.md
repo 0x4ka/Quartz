@@ -1,5 +1,5 @@
 ---
-title: Following ERC-6900 discussions
+title: "Following ERC-6900 discussions"
 date: 1970-01-20T11:51:54.017Z
 tags: 
 ---

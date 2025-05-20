@@ -1,5 +1,5 @@
 ---
-title: mitsu aka 清原
+title: "mitsu aka 清原"
 date: 1970-01-20T19:06:28.629Z
 tags: 
 ---

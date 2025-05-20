@@ -1,5 +1,5 @@
 ---
-title: NFTs and A Thousan True Fans
+title: "NFTs and A Thousan True Fans"
 date: 1970-01-20T18:10:28.547Z
 tags: 
 ---

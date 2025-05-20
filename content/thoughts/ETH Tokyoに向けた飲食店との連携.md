@@ -1,5 +1,5 @@
 ---
-title: ETH Tokyoに向けた飲食店との連携
+title: "ETH Tokyoに向けた飲食店との連携"
 date: 1970-01-20T10:08:17.777Z
 tags: 
 ---

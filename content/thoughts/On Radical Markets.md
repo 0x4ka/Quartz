@@ -1,5 +1,5 @@
 ---
-title: On Radical Markets
+title: "On Radical Markets"
 date: 1970-01-20T12:43:25.095Z
 tags: 
 ---

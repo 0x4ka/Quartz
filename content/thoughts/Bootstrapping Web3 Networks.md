@@ -1,5 +1,5 @@
 ---
-title: Bootstrapping Web3 Networks
+title: "Bootstrapping Web3 Networks"
 date: 1970-01-20T19:31:00.221Z
 tags: 
 ---

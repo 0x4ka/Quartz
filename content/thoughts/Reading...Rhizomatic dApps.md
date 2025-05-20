@@ -1,5 +1,5 @@
 ---
-title: Reading...Rhizomatic dApps
+title: "Reading...Rhizomatic dApps"
 date: 1970-01-20T11:20:39.021Z
 tags: 
 ---

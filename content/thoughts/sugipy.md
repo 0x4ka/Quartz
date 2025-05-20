@@ -1,5 +1,5 @@
 ---
-title: sugipy
+title: "sugipy"
 date: 1970-01-20T19:08:01.283Z
 tags: 
 ---

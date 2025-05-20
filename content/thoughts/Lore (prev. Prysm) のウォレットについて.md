@@ -1,5 +1,5 @@
 ---
-title: Lore (prev. Prysm) のウォレットについて
+title: "Lore (prev. Prysm) のウォレットについて"
 date: 1970-01-20T11:48:04.176Z
 tags: 
 ---

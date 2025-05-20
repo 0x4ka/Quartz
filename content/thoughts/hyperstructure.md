@@ -1,5 +1,5 @@
 ---
-title: hyperstructure
+title: "hyperstructure"
 date: 1970-01-20T12:37:37.938Z
 tags: 
 ---

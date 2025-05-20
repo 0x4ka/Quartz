@@ -1,5 +1,5 @@
 ---
-title: クリーク（Clique：小集団）
+title: "クリーク（Clique：小集団）"
 date: 1970-01-20T18:10:55.109Z
 tags: 
 ---

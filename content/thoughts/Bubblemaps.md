@@ -1,5 +1,5 @@
 ---
-title: Bubblemaps
+title: "Bubblemaps"
 date: 1970-01-20T11:13:25.605Z
 tags: 
 ---

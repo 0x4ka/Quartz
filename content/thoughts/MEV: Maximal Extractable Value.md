@@ -1,5 +1,5 @@
 ---
-title: MEV: Maximal Extractable Value
+title: "MEV: Maximal Extractable Value"
 date: 1970-01-20T10:21:11.578Z
 tags: 
 ---

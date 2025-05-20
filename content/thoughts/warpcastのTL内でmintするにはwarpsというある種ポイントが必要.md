@@ -1,5 +1,5 @@
 ---
-title: warpcastのTL内でmintするにはwarpsというある種ポイントが必要
+title: "warpcastのTL内でmintするにはwarpsというある種ポイントが必要"
 date: 1970-01-20T19:26:29.832Z
 tags: 
 ---

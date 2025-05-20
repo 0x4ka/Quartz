@@ -1,5 +1,5 @@
 ---
-title: RWAとStablecoinの2023年予測
+title: "RWAとStablecoinの2023年予測"
 date: 1970-01-20T10:58:18.013Z
 tags: 
 ---

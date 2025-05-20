@@ -1,5 +1,5 @@
 ---
-title: ChatGPTがDogeコインを価値ある資産と評価
+title: "ChatGPTがDogeコインを価値ある資産と評価"
 date: 1970-01-20T07:57:10.610Z
 tags: 
 ---

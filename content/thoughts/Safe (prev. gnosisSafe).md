@@ -1,5 +1,5 @@
 ---
-title: Safe (prev. gnosisSafe)
+title: "Safe (prev. gnosisSafe)"
 date: 1970-01-20T11:37:17.750Z
 tags: 
 ---
