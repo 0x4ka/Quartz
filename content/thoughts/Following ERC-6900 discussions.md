@@ -1,6 +1,6 @@
 ---
 title: "Following ERC-6900 discussions"
-date: May 17, 2023 (TZ: UTC+9)
+date: May 17, 2023
 tags: 
 ---
 

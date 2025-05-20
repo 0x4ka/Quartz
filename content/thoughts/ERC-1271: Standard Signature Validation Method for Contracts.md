@@ -1,6 +1,6 @@
 ---
 title: "ERC-1271: Standard Signature Validation Method for Contracts"
-date: May 6, 2023 (TZ: UTC+9)
+date: May 6, 2023
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "azaトークン"
-date: April 28, 2024 (TZ: UTC+9)
+date: April 28, 2024
 tags: 
 ---
 

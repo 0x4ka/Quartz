@@ -1,6 +1,6 @@
 ---
 title: "飲食運営会社UNCHI"
-date: March 25, 2023 (TZ: UTC+9)
+date: March 25, 2023
 tags: 
 ---
 

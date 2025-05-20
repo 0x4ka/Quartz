@@ -1,6 +1,6 @@
 ---
 title: "WIP_Safe Guard"
-date: May 21, 2023 (TZ: UTC+9)
+date: May 21, 2023
 tags: 
 ---
 

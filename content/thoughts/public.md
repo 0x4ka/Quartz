@@ -1,6 +1,6 @@
 ---
 title: "public"
-date: April 23, 2023 (TZ: UTC+9)
+date: April 23, 2023
 tags: 
 ---
 

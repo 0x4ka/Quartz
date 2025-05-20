@@ -1,6 +1,6 @@
 ---
 title: "チケットの不正転売を防ぐNFTメンバーシップの活用"
-date: December 4, 2022 (TZ: UTC+9)
+date: December 4, 2022
 tags: 
 ---
 

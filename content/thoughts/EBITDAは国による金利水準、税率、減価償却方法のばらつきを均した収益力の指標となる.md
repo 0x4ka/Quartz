@@ -1,6 +1,6 @@
 ---
 title: "EBITDAは国による金利水準、税率、減価償却方法のばらつきを均した収益力の指標となる"
-date: July 17, 2023 (TZ: UTC+9)
+date: July 17, 2023
 tags: 
 ---
 

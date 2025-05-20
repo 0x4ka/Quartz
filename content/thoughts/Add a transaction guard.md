@@ -1,6 +1,6 @@
 ---
 title: "Add a transaction guard"
-date: May 22, 2023 (TZ: UTC+9)
+date: May 22, 2023
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The Three Transitions"
-date: July 9, 2023 (TZ: UTC+9)
+date: July 9, 2023
 tags: 
 ---
 

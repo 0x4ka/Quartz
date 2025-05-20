@@ -1,6 +1,6 @@
 ---
 title: "safe の module は権限分離を主眼としている"
-date: May 20, 2023 (TZ: UTC+9)
+date: May 20, 2023
 tags: 
 ---
 

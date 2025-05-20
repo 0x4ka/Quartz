@@ -1,6 +1,6 @@
 ---
 title: "A network analysis of the non-fungible token (NFT) market: structural characteristics, evolution, and interactions | Applied Network Science"
-date: April 4, 2024 (TZ: UTC+9)
+date: April 4, 2024
 tags: 
 ---
 

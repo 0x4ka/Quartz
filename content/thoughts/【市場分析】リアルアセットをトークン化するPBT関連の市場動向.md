@@ -1,6 +1,6 @@
 ---
 title: "【市場分析】リアルアセットをトークン化するPBT関連の市場動向"
-date: December 4, 2022 (TZ: UTC+9)
+date: December 4, 2022
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "RentaFiの開発を止める"
-date: May 4, 2023 (TZ: UTC+9)
+date: May 4, 2023
 tags: 
 ---
 

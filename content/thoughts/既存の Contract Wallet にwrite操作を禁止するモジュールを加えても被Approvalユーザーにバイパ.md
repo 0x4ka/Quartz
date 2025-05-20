@@ -1,6 +1,6 @@
 ---
 title: "既存の Contract Wallet にwrite操作を禁止するモジュールを加えても被Approvalユーザーにバイパスされ得る"
-date: June 19, 2023 (TZ: UTC+9)
+date: June 19, 2023
 tags: 
 ---
 

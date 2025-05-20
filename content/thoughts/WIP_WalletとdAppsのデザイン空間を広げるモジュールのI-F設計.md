@@ -1,6 +1,6 @@
 ---
 title: "WIP_WalletとdAppsのデザイン空間を広げるモジュールのI/F設計"
-date: June 19, 2023 (TZ: UTC+9)
+date: June 19, 2023
 tags: 
 ---
 

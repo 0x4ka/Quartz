@@ -1,6 +1,6 @@
 ---
 title: "Reading...Rhizomatic dApps"
-date: April 26, 2023 (TZ: UTC+9)
+date: April 26, 2023
 tags: 
 ---
 

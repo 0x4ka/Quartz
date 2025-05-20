@@ -1,6 +1,6 @@
 ---
 title: "Dicersified Staked ETH Index($dsETH)"
-date: May 18, 2023 (TZ: UTC+9)
+date: May 18, 2023
 tags: 
 ---
 

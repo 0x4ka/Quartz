@@ -1,6 +1,6 @@
 ---
 title: "slwatch.net/external/moneyfarm"
-date: March 20, 2025 (TZ: UTC+9)
+date: March 20, 2025
 tags: 
 ---
 

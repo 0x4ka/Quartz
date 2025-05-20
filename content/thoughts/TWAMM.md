@@ -1,6 +1,6 @@
 ---
 title: "TWAMM"
-date: July 5, 2023 (TZ: UTC+9)
+date: July 5, 2023
 tags: 
 ---
 

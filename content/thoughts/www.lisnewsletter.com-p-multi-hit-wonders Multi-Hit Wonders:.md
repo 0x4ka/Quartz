@@ -1,6 +1,6 @@
 ---
 title: "www.lisnewsletter.com/p/multi-hit-wonders Multi-Hit Wonders: Embracing Apps With Short Shelf Life"
-date: February 5, 2024 (TZ: UTC+9)
+date: February 5, 2024
 tags: 
 ---
 

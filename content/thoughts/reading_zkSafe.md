@@ -1,6 +1,6 @@
 ---
 title: "reading_zkSafe"
-date: April 28, 2023 (TZ: UTC+9)
+date: April 28, 2023
 tags: 
 ---
 

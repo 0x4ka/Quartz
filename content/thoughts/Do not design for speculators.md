@@ -1,6 +1,6 @@
 ---
 title: "Do not design for speculators"
-date: June 22, 2023 (TZ: UTC+9)
+date: June 22, 2023
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "RentaFi開発について"
-date: May 4, 2023 (TZ: UTC+9)
+date: May 4, 2023
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "ERC-4337とMPCの統合に関する議論"
-date: May 6, 2023 (TZ: UTC+9)
+date: May 6, 2023
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Scrapboxの中身を自動ツイートする"
-date: April 6, 2023 (TZ: UTC+9)
+date: April 6, 2023
 tags: 
 ---
 

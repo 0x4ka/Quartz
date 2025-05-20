@@ -1,6 +1,6 @@
 ---
 title: "Blur の BLENDER の Unlock Ownership の実装について"
-date: May 15, 2023 (TZ: UTC+9)
+date: May 15, 2023
 tags: 
 ---
 

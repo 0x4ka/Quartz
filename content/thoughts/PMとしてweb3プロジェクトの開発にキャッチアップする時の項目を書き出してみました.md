@@ -1,6 +1,6 @@
 ---
 title: "PMとしてweb3プロジェクトの開発にキャッチアップする時の項目を書き出してみました"
-date: August 26, 2024 (TZ: UTC+9)
+date: August 26, 2024
 tags: 
 ---
 

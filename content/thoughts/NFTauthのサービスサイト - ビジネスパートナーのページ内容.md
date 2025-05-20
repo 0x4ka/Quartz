@@ -1,6 +1,6 @@
 ---
 title: "NFTauthのサービスサイト - ビジネスパートナーのページ内容"
-date: January 14, 2023 (TZ: UTC+9)
+date: January 14, 2023
 tags: 
 ---
 

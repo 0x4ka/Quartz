@@ -1,6 +1,6 @@
 ---
 title: "『Web2.0エンジニアがWeb3.0エンジニアを目指す上でおすすめの情報収集』"
-date: January 19, 2023 (TZ: UTC+9)
+date: January 19, 2023
 tags: 
 ---
 

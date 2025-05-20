@@ -1,6 +1,6 @@
 ---
 title: "NiftyApes: Harberger Style Lending Auctions"
-date: May 28, 2023 (TZ: UTC+9)
+date: May 28, 2023
 tags: 
 ---
 

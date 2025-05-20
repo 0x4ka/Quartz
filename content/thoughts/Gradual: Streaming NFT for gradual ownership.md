@@ -1,6 +1,6 @@
 ---
 title: "Gradual: Streaming NFT for gradual ownership"
-date: May 30, 2023 (TZ: UTC+9)
+date: May 30, 2023
 tags: 
 ---
 

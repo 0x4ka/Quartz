@@ -1,6 +1,6 @@
 ---
 title: "Ostium"
-date: March 4, 2023 (TZ: UTC+9)
+date: March 4, 2023
 tags: 
 ---
 

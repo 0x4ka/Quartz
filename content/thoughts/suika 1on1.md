@@ -1,6 +1,6 @@
 ---
 title: "suika 1on1"
-date: May 5, 2023 (TZ: UTC+9)
+date: May 5, 2023
 tags: 
 ---
 

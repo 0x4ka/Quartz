@@ -1,6 +1,6 @@
 ---
 title: "トークンの分類 by 水地先生"
-date: March 30, 2024 (TZ: UTC+9)
+date: March 30, 2024
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "優良ドライバーの評価システムとしてBCを活用する"
-date: March 13, 2023 (TZ: UTC+9)
+date: March 13, 2023
 tags: 
 ---
 

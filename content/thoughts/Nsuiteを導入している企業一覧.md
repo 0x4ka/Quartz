@@ -1,6 +1,6 @@
 ---
 title: "Nsuiteを導入している企業一覧"
-date: July 18, 2023 (TZ: UTC+9)
+date: July 18, 2023
 tags: 
 ---
 

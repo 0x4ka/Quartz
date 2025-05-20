@@ -1,6 +1,6 @@
 ---
 title: "EVMの処理速度"
-date: June 29, 2023 (TZ: UTC+9)
+date: June 29, 2023
 tags: 
 ---
 

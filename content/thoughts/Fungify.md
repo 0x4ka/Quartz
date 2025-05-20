@@ -1,6 +1,6 @@
 ---
 title: "Fungify"
-date: March 8, 2023 (TZ: UTC+9)
+date: March 8, 2023
 tags: 
 ---
 

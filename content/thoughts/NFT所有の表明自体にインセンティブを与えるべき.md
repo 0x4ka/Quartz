@@ -1,6 +1,6 @@
 ---
 title: "NFT所有の表明自体にインセンティブを与えるべき"
-date: January 18, 2023 (TZ: UTC+9)
+date: January 18, 2023
 tags: 
 ---
 

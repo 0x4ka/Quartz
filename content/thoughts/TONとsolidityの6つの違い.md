@@ -1,6 +1,6 @@
 ---
 title: "TONとsolidityの6つの違い"
-date: May 1, 2024 (TZ: UTC+9)
+date: May 1, 2024
 tags: 
 ---
 

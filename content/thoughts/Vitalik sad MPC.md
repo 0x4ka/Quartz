@@ -1,6 +1,6 @@
 ---
 title: "Vitalik sad MPC"
-date: May 5, 2023 (TZ: UTC+9)
+date: May 5, 2023
 tags: 
 ---
 

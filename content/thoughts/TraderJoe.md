@@ -1,6 +1,6 @@
 ---
 title: "TraderJoe"
-date: June 2, 2023 (TZ: UTC+9)
+date: June 2, 2023
 tags: 
 ---
 

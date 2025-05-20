@@ -1,6 +1,6 @@
 ---
 title: "Tokenized Viral"
-date: March 31, 2024 (TZ: UTC+9)
+date: March 31, 2024
 tags: 
 ---
 

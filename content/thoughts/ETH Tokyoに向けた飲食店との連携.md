@@ -1,6 +1,6 @@
 ---
 title: "ETH Tokyoに向けた飲食店との連携"
-date: March 6, 2023 (TZ: UTC+9)
+date: March 6, 2023
 tags: 
 ---
 

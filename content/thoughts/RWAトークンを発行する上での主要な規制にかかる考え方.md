@@ -1,6 +1,6 @@
 ---
 title: "RWAトークンを発行する上での主要な規制にかかる考え方"
-date: April 4, 2024 (TZ: UTC+9)
+date: April 4, 2024
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "/tkgshn/reCAPTCHA: Human-Based Character Recognition via Web Security Measures"
-date: March 21, 2024 (TZ: UTC+9)
+date: March 21, 2024
 tags: 
 ---
 

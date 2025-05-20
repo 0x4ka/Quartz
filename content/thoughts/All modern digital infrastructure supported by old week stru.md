@@ -1,6 +1,6 @@
 ---
 title: "All modern digital infrastructure supported by old week structure"
-date: May 11, 2023 (TZ: UTC+9)
+date: May 11, 2023
 tags: 
 ---
 

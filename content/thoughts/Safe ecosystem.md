@@ -1,6 +1,6 @@
 ---
 title: "Safe ecosystem"
-date: May 7, 2023 (TZ: UTC+9)
+date: May 7, 2023
 tags: 
 ---
 

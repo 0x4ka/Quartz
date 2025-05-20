@@ -1,6 +1,6 @@
 ---
 title: "Pinky Protocol"
-date: May 16, 2023 (TZ: UTC+9)
+date: May 16, 2023
 tags: 
 ---
 

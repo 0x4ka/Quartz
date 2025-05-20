@@ -1,6 +1,6 @@
 ---
 title: "MEV Protect RPC"
-date: July 18, 2023 (TZ: UTC+9)
+date: July 18, 2023
 tags: 
 ---
 

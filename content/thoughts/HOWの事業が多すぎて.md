@@ -1,6 +1,6 @@
 ---
 title: "HOWの事業が多すぎて"
-date: August 25, 2024 (TZ: UTC+9)
+date: August 25, 2024
 tags: 
 ---
 

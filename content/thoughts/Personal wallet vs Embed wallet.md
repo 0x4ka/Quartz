@@ -1,6 +1,6 @@
 ---
 title: "Personal wallet vs Embed wallet"
-date: May 6, 2023 (TZ: UTC+9)
+date: May 6, 2023
 tags: 
 ---
 

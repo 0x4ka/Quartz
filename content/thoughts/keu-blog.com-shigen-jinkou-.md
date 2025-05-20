@@ -1,6 +1,6 @@
 ---
 title: "keu-blog.com/shigen-jinkou/"
-date: March 20, 2024 (TZ: UTC+9)
+date: March 20, 2024
 tags: 
 ---
 

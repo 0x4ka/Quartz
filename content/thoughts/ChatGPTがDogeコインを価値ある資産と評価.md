@@ -1,6 +1,6 @@
 ---
 title: "ChatGPTがDogeコインを価値ある資産と評価"
-date: December 5, 2022 (TZ: UTC+9)
+date: December 5, 2022
 tags: 
 ---
 

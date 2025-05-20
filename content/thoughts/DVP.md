@@ -1,6 +1,6 @@
 ---
 title: "DVP"
-date: February 3, 2024 (TZ: UTC+9)
+date: February 3, 2024
 tags: 
 ---
 

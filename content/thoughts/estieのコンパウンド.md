@@ -1,6 +1,6 @@
 ---
 title: "estieのコンパウンド"
-date: May 12, 2024 (TZ: UTC+9)
+date: May 12, 2024
 tags: 
 ---
 

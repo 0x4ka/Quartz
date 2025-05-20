@@ -1,6 +1,6 @@
 ---
 title: "OPStack"
-date: February 25, 2023 (TZ: UTC+9)
+date: February 25, 2023
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "RentaFiに使えそうなビジネスモデル"
-date: February 8, 2023 (TZ: UTC+9)
+date: February 8, 2023
 tags: 
 ---
 

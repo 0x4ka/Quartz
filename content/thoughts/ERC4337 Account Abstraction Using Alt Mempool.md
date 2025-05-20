@@ -1,6 +1,6 @@
 ---
 title: "ERC4337 Account Abstraction Using Alt Mempool"
-date: May 7, 2023 (TZ: UTC+9)
+date: May 7, 2023
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "オンチェーン TXのアノテーション"
-date: April 4, 2024 (TZ: UTC+9)
+date: April 4, 2024
 tags: 
 ---
 

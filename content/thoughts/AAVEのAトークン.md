@@ -1,6 +1,6 @@
 ---
 title: "AAVEのAトークン"
-date: February 12, 2024 (TZ: UTC+9)
+date: February 12, 2024
 tags: 
 ---
 

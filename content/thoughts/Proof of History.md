@@ -1,6 +1,6 @@
 ---
 title: "Proof of History"
-date: April 9, 2023 (TZ: UTC+9)
+date: April 9, 2023
 tags: 
 ---
 

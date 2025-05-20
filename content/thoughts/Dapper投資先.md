@@ -1,6 +1,6 @@
 ---
 title: "Dapper投資先"
-date: April 18, 2023 (TZ: UTC+9)
+date: April 18, 2023
 tags: 
 ---
 

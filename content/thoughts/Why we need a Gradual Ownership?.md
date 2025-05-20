@@ -1,6 +1,6 @@
 ---
 title: "Why we need a Gradual Ownership?"
-date: June 30, 2023 (TZ: UTC+9)
+date: June 30, 2023
 tags: 
 ---
 

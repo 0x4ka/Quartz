@@ -1,6 +1,6 @@
 ---
 title: "wip_Insrt Finance"
-date: April 20, 2023 (TZ: UTC+9)
+date: April 20, 2023
 tags: 
 ---
 

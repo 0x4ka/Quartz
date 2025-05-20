@@ -1,6 +1,6 @@
 ---
 title: "【市場分析】Web3authにみるマスアダプションの鍵"
-date: December 23, 2022 (TZ: UTC+9)
+date: December 23, 2022
 tags: 
 ---
 

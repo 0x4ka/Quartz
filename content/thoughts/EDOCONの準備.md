@@ -1,6 +1,6 @@
 ---
 title: "EDOCONの準備"
-date: July 27, 2024 (TZ: UTC+9)
+date: July 27, 2024
 tags: 
 ---
 

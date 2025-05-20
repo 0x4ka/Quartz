@@ -1,6 +1,6 @@
 ---
 title: "How I think about choosing guardians for multisig and social recovery wallets"
-date: May 10, 2023 (TZ: UTC+9)
+date: May 10, 2023
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Twitter LinkedInの運用"
-date: August 7, 2022 (TZ: UTC+9)
+date: August 7, 2022
 tags: 
 ---
 

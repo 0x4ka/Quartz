@@ -1,6 +1,6 @@
 ---
 title: "script_all"
-date: September 1, 2024 (TZ: UTC+9)
+date: September 1, 2024
 tags: 
 ---
 

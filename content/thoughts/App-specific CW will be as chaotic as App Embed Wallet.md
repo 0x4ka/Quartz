@@ -1,6 +1,6 @@
 ---
 title: "App-specific CW will be as chaotic as App Embed Wallet"
-date: March 31, 2024 (TZ: UTC+9)
+date: March 31, 2024
 tags: 
 ---
 

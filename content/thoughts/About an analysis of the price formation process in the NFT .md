@@ -1,6 +1,6 @@
 ---
 title: "About an analysis of the price formation process in the NFT market"
-date: April 26, 2023 (TZ: UTC+9)
+date: April 26, 2023
 tags: 
 ---
 

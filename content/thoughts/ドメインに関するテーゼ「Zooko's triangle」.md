@@ -1,6 +1,6 @@
 ---
 title: "ドメインに関するテーゼ「Zooko's triangle」"
-date: March 14, 2024 (TZ: UTC+9)
+date: March 14, 2024
 tags: 
 ---
 

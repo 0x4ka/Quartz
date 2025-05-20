@@ -1,6 +1,6 @@
 ---
 title: "/villagepump/QuartzでObsidian Vaultを公開"
-date: February 4, 2024 (TZ: UTC+9)
+date: February 4, 2024
 tags: 
 ---
 

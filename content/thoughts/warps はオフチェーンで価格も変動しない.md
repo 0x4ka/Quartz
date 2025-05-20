@@ -1,6 +1,6 @@
 ---
 title: "warps はオフチェーンで価格も変動しない"
-date: March 31, 2024 (TZ: UTC+9)
+date: March 31, 2024
 tags: 
 ---
 

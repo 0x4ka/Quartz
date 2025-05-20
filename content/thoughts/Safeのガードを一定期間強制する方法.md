@@ -1,6 +1,6 @@
 ---
 title: "Safeのガードを一定期間強制する方法"
-date: June 19, 2023 (TZ: UTC+9)
+date: June 19, 2023
 tags: 
 ---
 

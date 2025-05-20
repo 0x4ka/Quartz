@@ -1,6 +1,6 @@
 ---
 title: "荒巻さんのFB"
-date: May 8, 2023 (TZ: UTC+9)
+date: May 8, 2023
 tags: 
 ---
 

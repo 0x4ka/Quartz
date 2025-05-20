@@ -1,6 +1,6 @@
 ---
 title: "/suika-penguin/巨大企業って、選択したビジネスが素晴らしかったからあそこまで大きくなったのだろうか"
-date: March 11, 2024 (TZ: UTC+9)
+date: March 11, 2024
 tags: 
 ---
 

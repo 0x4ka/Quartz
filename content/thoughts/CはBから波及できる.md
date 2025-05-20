@@ -1,6 +1,6 @@
 ---
 title: "CはBから波及できる"
-date: April 5, 2023 (TZ: UTC+9)
+date: April 5, 2023
 tags: 
 ---
 

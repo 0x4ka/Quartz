@@ -1,6 +1,6 @@
 ---
 title: "ONE PIECEは起業家の物語"
-date: March 22, 2024 (TZ: UTC+9)
+date: March 22, 2024
 tags: 
 ---
 

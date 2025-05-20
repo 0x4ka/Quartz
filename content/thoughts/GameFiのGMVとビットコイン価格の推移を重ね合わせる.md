@@ -1,6 +1,6 @@
 ---
 title: "GameFiのGMVとビットコイン価格の推移を重ね合わせる"
-date: May 11, 2023 (TZ: UTC+9)
+date: May 11, 2023
 tags: 
 ---
 

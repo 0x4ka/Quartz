@@ -1,6 +1,6 @@
 ---
 title: "PPA（電力販売契約）"
-date: February 23, 2024 (TZ: UTC+9)
+date: February 23, 2024
 tags: 
 ---
 

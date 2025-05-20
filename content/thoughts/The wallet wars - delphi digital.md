@@ -1,6 +1,6 @@
 ---
 title: "The wallet wars - delphi digital"
-date: July 20, 2023 (TZ: UTC+9)
+date: July 20, 2023
 tags: 
 ---
 

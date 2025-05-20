@@ -1,6 +1,6 @@
 ---
 title: "divisual"
-date: April 10, 2023 (TZ: UTC+9)
+date: April 10, 2023
 tags: 
 ---
 

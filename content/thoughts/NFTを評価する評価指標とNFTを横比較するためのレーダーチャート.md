@@ -1,6 +1,6 @@
 ---
 title: "NFTを評価する評価指標とNFTを横比較するためのレーダーチャート"
-date: December 4, 2022 (TZ: UTC+9)
+date: December 4, 2022
 tags: 
 ---
 

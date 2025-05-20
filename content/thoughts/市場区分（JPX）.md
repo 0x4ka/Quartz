@@ -1,6 +1,6 @@
 ---
 title: "市場区分（JPX）"
-date: April 3, 2023 (TZ: UTC+9)
+date: April 3, 2023
 tags: 
 ---
 

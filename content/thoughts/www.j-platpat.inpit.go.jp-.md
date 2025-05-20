@@ -1,6 +1,6 @@
 ---
 title: "www.j-platpat.inpit.go.jp/"
-date: May 11, 2023 (TZ: UTC+9)
+date: May 11, 2023
 tags: 
 ---
 

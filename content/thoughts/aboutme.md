@@ -1,6 +1,6 @@
 ---
 title: "aboutme"
-date: July 6, 2023 (TZ: UTC+9)
+date: July 6, 2023
 tags: 
 ---
 

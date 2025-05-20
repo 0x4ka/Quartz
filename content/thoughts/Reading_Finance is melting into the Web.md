@@ -1,6 +1,6 @@
 ---
 title: "Reading_Finance is melting into the Web"
-date: April 30, 2023 (TZ: UTC+9)
+date: April 30, 2023
 tags: 
 ---
 

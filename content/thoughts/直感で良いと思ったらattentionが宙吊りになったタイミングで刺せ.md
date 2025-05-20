@@ -1,6 +1,6 @@
 ---
 title: "直感で良いと思ったらattentionが宙吊りになったタイミングで刺せ"
-date: June 26, 2024 (TZ: UTC+9)
+date: June 26, 2024
 tags: 
 ---
 

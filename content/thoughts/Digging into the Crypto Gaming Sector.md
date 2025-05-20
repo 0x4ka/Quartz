@@ -1,6 +1,6 @@
 ---
 title: "Digging into the Crypto Gaming Sector"
-date: May 12, 2023 (TZ: UTC+9)
+date: May 12, 2023
 tags: 
 ---
 

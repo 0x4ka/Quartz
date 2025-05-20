@@ -1,6 +1,6 @@
 ---
 title: "/tkgshn/自然知能と圏論｜自然界に見いだす数物構造を利用した知的情報処理"
-date: March 14, 2024 (TZ: UTC+9)
+date: March 14, 2024
 tags: 
 ---
 

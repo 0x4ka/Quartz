@@ -1,6 +1,6 @@
 ---
 title: "Gas Abstraction"
-date: April 21, 2023 (TZ: UTC+9)
+date: April 21, 2023
 tags: 
 ---
 

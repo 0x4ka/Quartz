@@ -1,6 +1,6 @@
 ---
 title: "Ownerless Smart Account Architecture"
-date: May 14, 2023 (TZ: UTC+9)
+date: May 14, 2023
 tags: 
 ---
 

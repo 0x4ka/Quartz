@@ -1,6 +1,6 @@
 ---
 title: "account abstraction"
-date: May 20, 2023 (TZ: UTC+9)
+date: May 20, 2023
 tags: 
 ---
 

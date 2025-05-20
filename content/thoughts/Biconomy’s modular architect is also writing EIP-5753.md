@@ -1,6 +1,6 @@
 ---
 title: "Biconomy’s modular architect is also writing EIP-5753"
-date: May 11, 2023 (TZ: UTC+9)
+date: May 11, 2023
 tags: 
 ---
 

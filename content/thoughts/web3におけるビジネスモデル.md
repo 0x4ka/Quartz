@@ -1,6 +1,6 @@
 ---
 title: "web3におけるビジネスモデル"
-date: March 15, 2024 (TZ: UTC+9)
+date: March 15, 2024
 tags: 
 ---
 

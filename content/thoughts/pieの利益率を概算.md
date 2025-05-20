@@ -1,6 +1,6 @@
 ---
 title: "pieの利益率を概算"
-date: April 11, 2023 (TZ: UTC+9)
+date: April 11, 2023
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "LINEトラクション"
-date: April 2, 2024 (TZ: UTC+9)
+date: April 2, 2024
 tags: 
 ---
 

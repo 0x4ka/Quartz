@@ -1,6 +1,6 @@
 ---
 title: "taxio"
-date: May 12, 2023 (TZ: UTC+9)
+date: May 12, 2023
 tags: 
 ---
 

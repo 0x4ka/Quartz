@@ -1,6 +1,6 @@
 ---
 title: "Network abstractionの重要性"
-date: May 24, 2023 (TZ: UTC+9)
+date: May 24, 2023
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Biconomy Smart Contract Wallet"
-date: August 16, 2024 (TZ: UTC+9)
+date: August 16, 2024
 tags: 
 ---
 

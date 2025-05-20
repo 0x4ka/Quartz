@@ -1,6 +1,6 @@
 ---
 title: "【時系列まとめ】NFTマケプレのクリエイターロイヤリティに関する動向まとめ"
-date: April 11, 2023 (TZ: UTC+9)
+date: April 11, 2023
 tags: 
 ---
 

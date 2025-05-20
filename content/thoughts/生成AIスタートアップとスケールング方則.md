@@ -1,6 +1,6 @@
 ---
 title: "生成AIスタートアップとスケールング方則"
-date: March 30, 2024 (TZ: UTC+9)
+date: March 30, 2024
 tags: 
 ---
 

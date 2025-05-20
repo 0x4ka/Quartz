@@ -1,6 +1,6 @@
 ---
 title: "MEV: Maximal Extractable Value"
-date: March 15, 2023 (TZ: UTC+9)
+date: March 15, 2023
 tags: 
 ---
 

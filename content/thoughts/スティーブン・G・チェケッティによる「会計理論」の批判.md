@@ -1,6 +1,6 @@
 ---
 title: "スティーブン・G・チェケッティによる「会計理論」の批判"
-date: April 11, 2023 (TZ: UTC+9)
+date: April 11, 2023
 tags: 
 ---
 

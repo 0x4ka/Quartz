@@ -1,6 +1,6 @@
 ---
 title: "NFT企画の発生タスク"
-date: July 16, 2024 (TZ: UTC+9)
+date: July 16, 2024
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ethereum developers deploy "EntryPoint" to let wallets operate as smart contracts"
-date: April 30, 2023 (TZ: UTC+9)
+date: April 30, 2023
 tags: 
 ---
 

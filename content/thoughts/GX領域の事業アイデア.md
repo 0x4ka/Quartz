@@ -1,6 +1,6 @@
 ---
 title: "GX領域の事業アイデア"
-date: July 29, 2024 (TZ: UTC+9)
+date: July 29, 2024
 tags: 
 ---
 

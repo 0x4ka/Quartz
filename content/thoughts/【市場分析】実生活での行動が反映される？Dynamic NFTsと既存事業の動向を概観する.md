@@ -1,6 +1,6 @@
 ---
 title: "【市場分析】実生活での行動が反映される？Dynamic NFTsと既存事業の動向を概観する"
-date: April 23, 2023 (TZ: UTC+9)
+date: April 23, 2023
 tags: 
 ---
 

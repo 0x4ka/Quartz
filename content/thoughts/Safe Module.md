@@ -1,6 +1,6 @@
 ---
 title: "Safe Module"
-date: April 30, 2023 (TZ: UTC+9)
+date: April 30, 2023
 tags: 
 ---
 

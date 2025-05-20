@@ -1,6 +1,6 @@
 ---
 title: "Identifying Cryptocurrency Money Laundering Patterns Using Network Analysis"
-date: March 31, 2024 (TZ: UTC+9)
+date: March 31, 2024
 tags: 
 ---
 

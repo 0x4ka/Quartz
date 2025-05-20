@@ -1,6 +1,6 @@
 ---
 title: "【分析ツール紹介】ブロックチェーン上のデータを分析できるDune Analyticsを紹介"
-date: February 5, 2023 (TZ: UTC+9)
+date: February 5, 2023
 tags: 
 ---
 

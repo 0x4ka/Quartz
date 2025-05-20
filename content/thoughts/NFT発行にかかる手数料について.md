@@ -1,6 +1,6 @@
 ---
 title: "NFT発行にかかる手数料について"
-date: December 4, 2022 (TZ: UTC+9)
+date: December 4, 2022
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Gradual Dutch Auctions"
-date: February 7, 2024 (TZ: UTC+9)
+date: February 7, 2024
 tags: 
 ---
 

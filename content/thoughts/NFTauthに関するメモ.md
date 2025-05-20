@@ -1,6 +1,6 @@
 ---
 title: "NFTauthに関するメモ"
-date: August 13, 2023 (TZ: UTC+9)
+date: August 13, 2023
 tags: 
 ---
 

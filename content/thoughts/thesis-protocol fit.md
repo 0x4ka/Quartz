@@ -1,6 +1,6 @@
 ---
 title: "thesis/protocol fit"
-date: April 11, 2023 (TZ: UTC+9)
+date: April 11, 2023
 tags: 
 ---
 
