@@ -1,6 +1,6 @@
 ---
 title: "ERC-2771: Secure Protocol for Native Meta Transactions"
-date: May 7, 2023
+date: 2023-05-07T06:30:57.000+09:00
 tags: 
 ---
 

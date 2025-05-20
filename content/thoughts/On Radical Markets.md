@@ -1,6 +1,6 @@
 ---
 title: "On Radical Markets"
-date: June 22, 2023
+date: 2023-06-22T03:38:15.000+09:00
 tags: 
 ---
 

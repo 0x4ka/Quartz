@@ -1,6 +1,6 @@
 ---
 title: "Justin Sun雄すぎ"
-date: April 10, 2023
+date: 2023-04-10T12:55:58.000+09:00
 tags: 
 ---
 

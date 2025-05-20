@@ -1,6 +1,6 @@
 ---
 title: "Sodium"
-date: April 10, 2023
+date: 2023-04-10T08:35:45.000+09:00
 tags: 
 ---
 

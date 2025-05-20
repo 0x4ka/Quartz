@@ -1,6 +1,6 @@
 ---
 title: "Avocado Wallet のソースコード"
-date: May 7, 2023
+date: 2023-05-07T06:56:29.000+09:00
 tags: 
 ---
 

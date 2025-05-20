@@ -1,6 +1,6 @@
 ---
 title: "EOAとCAのproscons"
-date: March 30, 2024
+date: 2024-03-30T10:51:00.000+09:00
 tags: 
 ---
 

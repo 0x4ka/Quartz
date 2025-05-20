@@ -1,6 +1,6 @@
 ---
 title: "arweave transaction"
-date: March 28, 2024
+date: 2024-03-28T01:34:48.000+09:00
 tags: 
 ---
 

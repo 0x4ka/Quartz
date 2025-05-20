@@ -1,6 +1,6 @@
 ---
 title: "TWAMM"
-date: July 5, 2023
+date: 2023-07-05T08:09:05.000+09:00
 tags: 
 ---
 

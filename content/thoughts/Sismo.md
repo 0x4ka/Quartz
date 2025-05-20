@@ -1,6 +1,6 @@
 ---
 title: "Sismo"
-date: April 3, 2023
+date: 2023-04-02T20:19:27.000+09:00
 tags: 
 ---
 

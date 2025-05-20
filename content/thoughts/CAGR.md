@@ -1,6 +1,6 @@
 ---
 title: "CAGR"
-date: March 19, 2023
+date: 2023-03-19T08:59:02.000+09:00
 tags: 
 ---
 

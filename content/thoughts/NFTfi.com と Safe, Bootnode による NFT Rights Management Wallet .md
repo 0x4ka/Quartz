@@ -1,6 +1,6 @@
 ---
 title: "NFTfi.com と Safe, Bootnode による NFT Rights Management Wallet について"
-date: May 14, 2023
+date: 2023-05-14T14:20:38.000+09:00
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "LidoのstETHとwstETH"
-date: June 5, 2023
+date: 2023-06-05T09:51:39.000+09:00
 tags: 
 ---
 

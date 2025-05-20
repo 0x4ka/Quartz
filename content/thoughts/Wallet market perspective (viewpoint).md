@@ -1,6 +1,6 @@
 ---
 title: "Wallet market perspective (viewpoint)"
-date: April 28, 2023
+date: 2023-04-28T14:23:05.000+09:00
 tags: 
 ---
 

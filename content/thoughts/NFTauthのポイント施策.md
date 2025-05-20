@@ -1,6 +1,6 @@
 ---
 title: "NFTauthのポイント施策"
-date: April 24, 2023
+date: 2023-04-23T18:01:56.000+09:00
 tags: 
 ---
 

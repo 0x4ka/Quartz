@@ -1,6 +1,6 @@
 ---
 title: "Superfluid"
-date: April 13, 2023
+date: 2023-04-13T07:32:25.000+09:00
 tags: 
 ---
 

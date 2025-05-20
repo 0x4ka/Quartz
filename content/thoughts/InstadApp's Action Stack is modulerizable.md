@@ -1,6 +1,6 @@
 ---
 title: "InstadApp's Action Stack is modulerizable"
-date: May 7, 2023
+date: 2023-05-07T14:42:53.000+09:00
 tags: 
 ---
 

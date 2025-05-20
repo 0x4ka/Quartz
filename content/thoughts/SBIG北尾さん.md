@@ -1,6 +1,6 @@
 ---
 title: "SBIG北尾さん"
-date: February 10, 2024
+date: 2024-02-10T14:19:04.000+09:00
 tags: 
 ---
 

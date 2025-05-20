@@ -1,6 +1,6 @@
 ---
 title: "Fungify"
-date: March 8, 2023
+date: 2023-03-08T02:42:28.000+09:00
 tags: 
 ---
 

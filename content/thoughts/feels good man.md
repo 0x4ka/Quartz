@@ -1,6 +1,6 @@
 ---
 title: "feels good man"
-date: May 7, 2023
+date: 2023-05-07T05:55:48.000+09:00
 tags: 
 ---
 

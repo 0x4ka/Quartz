@@ -1,6 +1,6 @@
 ---
 title: "Asset Rights Abstractions"
-date: May 6, 2023
+date: 2023-05-05T15:52:38.000+09:00
 tags: 
 ---
 

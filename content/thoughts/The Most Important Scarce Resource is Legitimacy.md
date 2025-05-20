@@ -1,6 +1,6 @@
 ---
 title: "The Most Important Scarce Resource is Legitimacy"
-date: April 23, 2023
+date: 2023-04-22T18:31:47.000+09:00
 tags: 
 ---
 

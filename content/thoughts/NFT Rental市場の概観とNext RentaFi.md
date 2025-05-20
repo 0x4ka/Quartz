@@ -1,6 +1,6 @@
 ---
 title: "NFT Rental市場の概観とNext RentaFi"
-date: April 12, 2023
+date: 2023-04-11T22:26:19.000+09:00
 tags: 
 ---
 

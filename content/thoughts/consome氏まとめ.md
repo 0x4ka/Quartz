@@ -1,6 +1,6 @@
 ---
 title: "consome氏まとめ"
-date: May 2, 2023
+date: 2023-05-01T15:24:27.000+09:00
 tags: 
 ---
 

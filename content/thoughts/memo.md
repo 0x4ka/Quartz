@@ -1,6 +1,6 @@
 ---
 title: "memo"
-date: April 28, 2023
+date: 2023-04-28T02:00:01.000+09:00
 tags: 
 ---
 

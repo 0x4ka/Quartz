@@ -1,6 +1,6 @@
 ---
 title: "READING_Should there be demand-based recurring fees on ENS domains?"
-date: May 23, 2023
+date: 2023-05-23T12:48:55.000+09:00
 tags: 
 ---
 

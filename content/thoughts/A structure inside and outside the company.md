@@ -1,6 +1,6 @@
 ---
 title: "A structure inside and outside the company"
-date: February 7, 2024
+date: 2024-02-06T15:22:56.000+09:00
 tags: 
 ---
 

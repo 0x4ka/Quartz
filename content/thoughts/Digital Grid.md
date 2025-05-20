@@ -1,6 +1,6 @@
 ---
 title: "Digital Grid"
-date: February 10, 2024
+date: 2024-02-10T14:09:45.000+09:00
 tags: 
 ---
 

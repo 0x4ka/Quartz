@@ -1,6 +1,6 @@
 ---
 title: "thesis/protocol fit"
-date: April 11, 2023
+date: 2023-04-11T07:11:19.000+09:00
 tags: 
 ---
 

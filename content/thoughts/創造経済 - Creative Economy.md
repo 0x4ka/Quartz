@@ -1,6 +1,6 @@
 ---
 title: "創造経済 - Creative Economy"
-date: April 23, 2023
+date: 2023-04-22T17:54:20.000+09:00
 tags: 
 ---
 

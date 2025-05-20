@@ -1,6 +1,6 @@
 ---
 title: "Property Is Only Another Name For Monopoly"
-date: June 22, 2023
+date: 2023-06-22T03:37:30.000+09:00
 tags: 
 ---
 

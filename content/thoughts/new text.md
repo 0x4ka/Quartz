@@ -1,6 +1,6 @@
 ---
 title: "new text"
-date: March 31, 2024
+date: 2024-03-31T06:43:29.000+09:00
 tags: 
 ---
 

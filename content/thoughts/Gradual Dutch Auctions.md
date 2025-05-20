@@ -1,6 +1,6 @@
 ---
 title: "Gradual Dutch Auctions"
-date: February 7, 2024
+date: 2024-02-07T02:38:47.000+09:00
 tags: 
 ---
 

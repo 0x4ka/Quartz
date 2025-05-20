@@ -1,6 +1,6 @@
 ---
 title: "how ERC-4337 signature aggregators can actually reduce data size"
-date: April 30, 2023
+date: 2023-04-29T16:28:00.000+09:00
 tags: 
 ---
 

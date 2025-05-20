@@ -1,6 +1,6 @@
 ---
 title: "Ownerless Smart Account Architecture"
-date: May 14, 2023
+date: 2023-05-14T06:38:53.000+09:00
 tags: 
 ---
 

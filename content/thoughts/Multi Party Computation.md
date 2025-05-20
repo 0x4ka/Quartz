@@ -1,6 +1,6 @@
 ---
 title: "Multi Party Computation"
-date: December 5, 2022
+date: 2022-12-05T05:45:19.000+09:00
 tags: 
 ---
 

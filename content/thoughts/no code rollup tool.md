@@ -1,6 +1,6 @@
 ---
 title: "no code rollup tool"
-date: May 17, 2023
+date: 2023-05-17T04:13:31.000+09:00
 tags: 
 ---
 

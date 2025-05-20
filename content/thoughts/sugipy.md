@@ -1,6 +1,6 @@
 ---
 title: "sugipy"
-date: March 15, 2024
+date: 2024-03-15T05:41:23.000+09:00
 tags: 
 ---
 

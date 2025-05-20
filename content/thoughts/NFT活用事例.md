@@ -1,6 +1,6 @@
 ---
 title: "NFT活用事例"
-date: September 1, 2024
+date: 2024-09-01T09:07:35.000+09:00
 tags: 
 ---
 

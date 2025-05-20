@@ -1,6 +1,6 @@
 ---
 title: "RentaFiに使えそうなビジネスモデル"
-date: February 8, 2023
+date: 2023-02-08T08:20:48.000+09:00
 tags: 
 ---
 

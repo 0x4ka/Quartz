@@ -1,6 +1,6 @@
 ---
 title: "STO周り"
-date: February 4, 2024
+date: 2024-02-03T16:49:14.000+09:00
 tags: 
 ---
 

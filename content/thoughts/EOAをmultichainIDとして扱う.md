@@ -1,6 +1,6 @@
 ---
 title: "EOAをmultichainIDとして扱う"
-date: March 30, 2024
+date: 2024-03-30T10:05:38.000+09:00
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "ハッカソン振り返り @ETHGlobalTokyo"
-date: April 21, 2023
+date: 2023-04-20T15:47:19.000+09:00
 tags: 
 ---
 

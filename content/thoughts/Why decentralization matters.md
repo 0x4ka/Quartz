@@ -1,6 +1,6 @@
 ---
 title: "Why decentralization matters"
-date: March 19, 2023
+date: 2023-03-19T01:39:15.000+09:00
 tags: 
 ---
 

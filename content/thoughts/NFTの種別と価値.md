@@ -1,6 +1,6 @@
 ---
 title: "NFTの種別と価値"
-date: December 4, 2022
+date: 2022-12-04T11:50:13.000+09:00
 tags: 
 ---
 

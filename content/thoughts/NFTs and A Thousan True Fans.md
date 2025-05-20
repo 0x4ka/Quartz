@@ -1,6 +1,6 @@
 ---
 title: "NFTs and A Thousan True Fans"
-date: February 4, 2024
+date: 2024-02-04T06:35:47.000+09:00
 tags: 
 ---
 

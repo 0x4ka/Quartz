@@ -1,6 +1,6 @@
 ---
 title: "OPStack"
-date: February 25, 2023
+date: 2023-02-25T14:30:06.000+09:00
 tags: 
 ---
 

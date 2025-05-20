@@ -1,6 +1,6 @@
 ---
 title: "hyperstructure"
-date: June 18, 2023
+date: 2023-06-18T03:12:18.000+09:00
 tags: 
 ---
 

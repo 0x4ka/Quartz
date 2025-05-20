@@ -1,6 +1,6 @@
 ---
 title: "PROPERTY IS MONOPOLY"
-date: June 22, 2023
+date: 2023-06-22T03:39:22.000+09:00
 tags: 
 ---
 

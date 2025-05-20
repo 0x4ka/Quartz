@@ -1,6 +1,6 @@
 ---
 title: "国連NGO JACE"
-date: February 10, 2024
+date: 2024-02-10T14:22:31.000+09:00
 tags: 
 ---
 

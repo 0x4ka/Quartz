@@ -1,6 +1,6 @@
 ---
 title: "The wallet wars - delphi digital"
-date: July 20, 2023
+date: 2023-07-20T13:53:18.000+09:00
 tags: 
 ---
 

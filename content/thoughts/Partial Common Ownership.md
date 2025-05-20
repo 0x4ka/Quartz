@@ -1,6 +1,6 @@
 ---
 title: "Partial Common Ownership"
-date: May 22, 2023
+date: 2023-05-21T17:36:42.000+09:00
 tags: 
 ---
 

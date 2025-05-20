@@ -1,6 +1,6 @@
 ---
 title: "Worldcoin Project"
-date: April 11, 2023
+date: 2023-04-10T18:36:25.000+09:00
 tags: 
 ---
 

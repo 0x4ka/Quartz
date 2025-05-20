@@ -1,6 +1,6 @@
 ---
 title: "A high level Ethereum application architecture"
-date: April 18, 2023
+date: 2023-04-18T05:53:09.000+09:00
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Safe (prev. gnosisSafe)"
-date: May 7, 2023
+date: 2023-05-07T05:35:50.000+09:00
 tags: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "aboutme"
-date: July 6, 2023
+date: 2023-07-06T11:03:16.000+09:00
 tags: 
 ---
 

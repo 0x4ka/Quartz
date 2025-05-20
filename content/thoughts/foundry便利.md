@@ -1,6 +1,6 @@
 ---
 title: "foundry便利"
-date: May 15, 2023
+date: 2023-05-14T16:46:13.000+09:00
 tags: 
 ---
 

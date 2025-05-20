@@ -1,6 +1,6 @@
 ---
 title: "Crypto to reach 1 billion users in 2030: BCG Report"
-date: May 10, 2023
+date: 2023-05-10T05:49:01.000+09:00
 tags: 
 ---
 

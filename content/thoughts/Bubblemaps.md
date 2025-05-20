@@ -1,6 +1,6 @@
 ---
 title: "Bubblemaps"
-date: April 21, 2023
+date: 2023-04-20T15:46:45.000+09:00
 tags: 
 ---
 

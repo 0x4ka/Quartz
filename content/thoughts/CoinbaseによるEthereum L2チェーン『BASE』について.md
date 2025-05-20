@@ -1,6 +1,6 @@
 ---
 title: "CoinbaseによるEthereum L2チェーン『BASE』について"
-date: April 10, 2023
+date: 2023-04-10T08:36:55.000+09:00
 tags: 
 ---
 

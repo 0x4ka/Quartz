@@ -1,6 +1,6 @@
 ---
 title: "Ethereum Attestation Service"
-date: March 21, 2024
+date: 2024-03-21T06:10:20.000+09:00
 tags: 
 ---
 

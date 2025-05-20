@@ -1,6 +1,6 @@
 ---
 title: "Certificate issuer とIDとしての NFTauth"
-date: August 26, 2023
+date: 2023-08-26T04:43:20.000+09:00
 tags: 
 ---
 

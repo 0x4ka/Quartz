@@ -1,6 +1,6 @@
 ---
 title: "NFT Rental Market の類型"
-date: May 24, 2023
+date: 2023-05-23T16:55:04.000+09:00
 tags: 
 ---
 

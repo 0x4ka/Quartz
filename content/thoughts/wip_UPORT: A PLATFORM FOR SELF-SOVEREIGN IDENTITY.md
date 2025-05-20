@@ -1,6 +1,6 @@
 ---
 title: "wip_UPORT: A PLATFORM FOR SELF-SOVEREIGN IDENTITY"
-date: April 20, 2023
+date: 2023-04-20T05:53:17.000+09:00
 tags: 
 ---
 
