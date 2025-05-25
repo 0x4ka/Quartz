@@ -8,7 +8,7 @@ tags:
 
 - Safeは2B
     - 組織内で1つのウォレットを共有（tresuary）し、multisigで承認を行うことを前提に設計されている
-    - toCは、[[Biconomy Smart Contract Wallet]]や[[argent]]が担う
+    - toCは、[[Biconomy Smart Contract Wallet]]や[[Argent]]が担う
 
 SafeはDAO等組織のトレジャリー管理向けなので、組織のOwnerが設計したModuleとその他SignerによるTxを検証するGuardをあらかじめ設定した上で運用される思想
 - なので、Moduleの付け替えというのは、Ownerだけが行う想定

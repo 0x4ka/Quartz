@@ -7,7 +7,7 @@ tags:
 #wallet #WalletContract
 
 Avocado wallet の特徴であるabstractionについては別途参照
-- [[gas abstraction]]
+- [[Gas Abstraction]]
 - [[Network abstractionの重要性]]
 - [[Account Abstraction Architecture]]
 

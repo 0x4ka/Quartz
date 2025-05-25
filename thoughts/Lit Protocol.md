@@ -69,7 +69,7 @@ PKPの利用にEOAウォレットが必要か？
 [[Lit Action]]
 
 ユースケース
-- [[Patch wallet]]
+- [[Patch Wallet]]
     - 実装は、ERC-4337のBundlerにLit protocolを使用している？<img src='https://scrapbox.io/api/pages/0xhid3-private/0xhid3/icon' alt='0xhid3.icon' height="19.5"/>
     - UserOp mempoolの運用も合わせて気になる
 - gasless airdropper

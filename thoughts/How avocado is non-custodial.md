@@ -21,5 +21,5 @@ source: [How Avocado is non-custodial](https://blog.instadapp.io/avocado-non-cus
 
 other
 - [[Gas Abstraction]]
-- [[network abstractionの重要性]]
+- [[Network abstractionの重要性]]
 - [[Avocado Wallet のソースコード]]

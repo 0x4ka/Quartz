@@ -50,7 +50,7 @@ source: [The Wallet Wars - Delphi Digital](https://members.delphidigital.io/repo
     - Keplr
         - Cosmos上で最も採用されているウォレット
         - 拡張機能 + ダッシュボードのようになっていて、DAOのガバナンスへの参加やステーキんぐ、Liquidity pool、NFTポートフォリオなどといった機能がワンストップで利用できる仕様
-        - [[Account abstraction]]や、ソーシャルアカウントでのウォレット利用などなども採用している
+        - [[account abstraction]]や、ソーシャルアカウントでのウォレット利用などなども採用している
         - ![image](https://scrapbox.io/files/6453446b8680fb3971fb2205.png)
     - その他
         - wallet connect

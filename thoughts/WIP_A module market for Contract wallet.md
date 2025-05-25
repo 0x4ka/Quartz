@@ -27,7 +27,7 @@ ref: [[WIP_WalletとdAppsのデザイン空間を広げるモジュールのI/F�
             - module を通して wallet 本体を呼び出す構造になっている
             - [[WIP_Safe Guard]] は、Wallet 本体のトランザクションの実行前後に検証を行う設計
     - Argent
-        - [[argent]]
+        - [[Argent]]
         - moduleからwalletの機能を呼びだす
         - modul(singleton)→proxy→wallet(singleton)→dapp
         - moduleが最初のタッチポイントなので、basewalletに検証機能のIFとロジックを実装し、moduleでIFを採用して検証しなければいけない？
